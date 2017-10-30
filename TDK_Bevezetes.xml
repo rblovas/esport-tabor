@@ -1,0 +1,54 @@
+<section xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="TDK_Bevezetes">
+    <title>Bevezetés</title>
+    <para>
+        Mi a munka motivációja, mik a vizsgált kérdések?
+    </para>
+    <section>
+        <title>E-sport</title>
+        <para>
+            Tudományos meghatározások felvillantása (majd megadom a feldolgozandó cikkeket az irodalomjegyzékben.)
+            Szubjektív benyomások pár mondatban, bármi személyes tapasztalat, élmény, meglátás. Mi a személyes motiváció?
+        </para>
+        <section>
+            <title>DEAC-Hackers</title>
+            <para>
+                A DEAC-Hackers rövid bemutatása.
+            </para>
+        </section>                
+    </section>        
+    <section>
+        <title>Szakirodalmi háttér</title>
+        <para>
+            A kapcsolódó főbb tudományos publikációk hivatkozása és 1-2 mondatos összefoglalása az alábbi területeken: 
+            e-sport és sport kapcsolata, e-sport és gazdaság kapcsolata, e-sport és oktatás kapcsolata (a kiinduló cikkeket
+            megjelölöm a következő iterációban az irodalomjegyzékben, ezt a szakirodalmi hálót természetesen felderíthetitek,
+            tovább bővíthetitek).
+        </para>
+        <para>
+            Vannak-e ismert jó gyakorlatok, akár ha nem is e-sport táboroztatásra, hanem sportban, oktatásban általában.
+            Pl. az úszás utánpótlás rendszerét vázlatosan kiemelve?
+        </para>
+    </section>        
+    <section>
+        <title>Megelőző és kapcsolódó munkák</title>
+        <para>
+            Az eddigi saját munkáink és publikációink kapcsolódása az előző pont mintájára.               
+        </para>
+    </section>                
+    <section>
+        <title>A dolgozat szervezése és szerkezete</title>
+        <para>
+            Hol elérhető, például repóban? (Javaslatom, hogy csináljatok egy GitHub repót.) Miben készült? (DocBook XML 5.1, 
+            eleve ebben írom már ezt.) A szereplő konkrét fejezetek milyen sorrendben milyen tartalomal szerepelnek (1-2 mondat fejezetenként).
+        </para>
+    </section>        
+    <section>
+        <title>A dolgozat módszere</title>
+        <para>
+            Hogyan dolgozunk? Az interjú alanyok és esettanulmányok bemutatása. 
+        </para>
+    </section>                
+</section>
+    

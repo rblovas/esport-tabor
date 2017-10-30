@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude">    
+    <info>
+        <title>E-sport vállalkozás az egyetemen?</title>
+        <author>
+            <personname>
+                <honorific></honorific>
+                <surname>Lovas</surname>
+                <firstname>Rita Barbara</firstname>        
+            </personname>    
+            <affiliation>
+                <shortaffil>hallgató, DEIK.</shortaffil>
+                <jobtitle>PTI BSc</jobtitle>
+                <orgname>Debreceni Egyetem, Informatikai Kar</orgname>
+                <orgdiv>Információtechnológiai Tanszék</orgdiv>
+                <address>
+                    <email></email>
+                </address>
+            </affiliation>
+            <address>
+                <street>Kassai út 26.</street>
+                <city>Debrecen</city>
+                <postcode>4028</postcode>
+                <country>Magyarország</country>
+                <email></email>
+                <otheraddr>
+                    <link xlink:href=""></link>
+                </otheraddr>
+            </address>
+        </author>
+        <author>
+            <personname>
+                <honorific></honorific>
+                <surname>Pál</surname>
+                <firstname>Marcell</firstname>        
+            </personname>    
+            <affiliation>
+                <shortaffil>hallgató, DEIK.</shortaffil>
+                <jobtitle>PTI BSc</jobtitle>
+                <orgname>Debreceni Egyetem, Informatikai Kar</orgname>
+                <orgdiv>Információtechnológiai Tanszék</orgdiv>
+                <address>
+                    <email></email>
+                </address>
+            </affiliation>
+            <address>
+                <street>Kassai út 26.</street>
+                <city>Debrecen</city>
+                <postcode>4028</postcode>
+                <country>Magyarország</country>
+                <email></email>
+                <otheraddr>
+                    <link xlink:href=""></link>
+                </otheraddr>
+            </address>
+        </author>
+        <author>
+            <personname>
+                <honorific>Dr.</honorific>
+                <surname>Bátfai</surname>
+                <firstname>Norbert</firstname>        
+            </personname>    
+            <affiliation>
+                <shortaffil>E. adjunktus, DEIK.</shortaffil>
+                <jobtitle>Egyetemi adjunktus</jobtitle>
+                <orgname>Debreceni Egyetem, Informatikai Kar</orgname>
+                <orgdiv>Információtechnológiai Tanszék</orgdiv>
+                <address>
+                    <email>batfai.norbert@inf.unideb.hu</email>
+                    <email>nbatfai@gmail.com</email>
+                </address>
+            </affiliation>
+            <address>
+                <street>Kassai út 26.</street>
+                <city>Debrecen</city>
+                <postcode>4028</postcode>
+                <country>Magyarország</country>
+                <email>batfai.norbert@inf.unideb.hu</email>
+                <otheraddr>
+                    <link xlink:href="http://www.inf.unideb.hu/~nbatfai">http://www.inf.unideb.hu/~nbatfai</link>
+                </otheraddr>
+            </address>
+        </author>
+        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.2</edition>
+        <pubdate>2017</pubdate>
+        <copyright>
+            <year>2017</year>
+            <holder>Lovas Rita Barbara, Pál Marcell, Dr. Bátfai Norbert</holder>
+        </copyright>
+        <legalnotice>
+            <para>DEAC-Hackers, TDK dolgozat
+            </para>
+            <para>                
+                Copyright (C) 2017, Lovas Rita Barbara, Pál Marcell, Norbert Bátfai
+            </para>
+            <para>
+                This program is free software: you can redistribute it and/or modify
+                it under the terms of the GNU General Public License as published by
+                the Free Software Foundation, either version 3 of the License, or
+                (at your option) any later version.
+            </para>
+            <para>
+                This program is distributed in the hope that it will be useful,
+                but WITHOUT ANY WARRANTY; without even the implied warranty of
+                MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+                GNU General Public License for more details.
+            </para>
+            <para>
+                You should have received a copy of the GNU General Public License
+                along with this program.  If not, see 
+                <link xlink:href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</link>.
+            </para>
+            <para>
+                Ez a program szabad szoftver; terjeszthető illetve módosítható a 
+                Free Software Foundation által kiadott GNU General Public License
+                dokumentumában leírtak; akár a licenc 3-as, akár (tetszőleges) későbbi 
+                változata szerint.
+            </para>
+            <para>
+                Ez a program abban a reményben kerül közreadásra, hogy hasznos lesz, 
+                de minden egyéb GARANCIA NÉLKÜL, az ELADHATÓSÁGRA vagy VALAMELY CÉLRA 
+                VALÓ ALKALMAZHATÓSÁGRA való származtatott garanciát is beleértve. 
+                További részleteket a GNU General Public License tartalmaz.
+            </para>
+            <para>
+                A felhasználónak a programmal együtt meg kell kapnia a GNU General 
+                Public License egy példányát; ha mégsem kapta meg, akkor
+                tekintse meg a
+                <link xlink:href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</link>
+                oldalon.
+            </para>
+            <para>
+                <link xlink:href="http://gnu.hu/gplv3.html">http://gnu.hu/gplv3.html</link>                
+            </para>
+        </legalnotice>            
+        <revhistory>
+            <revision>
+                <revnumber>0.0.1</revnumber>
+                <date>2017-10-17</date>
+                <authorinitials>BN</authorinitials>                
+                <revremark>Iniciális tartalomjegyzék.</revremark>
+            </revision>
+            <revision>
+                <revnumber>0.0.2</revnumber>
+                <date>2017-10-29</date>
+                <authorinitials>BN</authorinitials>                
+                <revremark>Moduláris szerkezet kialakítása, hogy közösségi repóban hatékonyabban lehessen párhuzamosan dolgozni az anyagon.</revremark>
+            </revision>
+        </revhistory>
+    </info>                                                                                                
+    <xi:include href="TDK_Bevezetes.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: TDK_Bevezetes file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>      
+    <xi:include href="TDK_Targyalas.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: TDK_Targyalas file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>      
+    <xi:include href="TDK_Befejezes.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: TDK_Befejezes file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>      
+    <section>
+        <title>Köszönet</title>
+    </section>                                                                                   
+    <xi:include href="TDK_Irodalom.xml">
+        <xi:fallback>
+            <para>
+                <emphasis>XInclude: TDK_Irodalom.xml file not found</emphasis>
+            </para>
+        </xi:fallback>
+    </xi:include>      
+</article>
