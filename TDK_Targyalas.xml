@@ -11,6 +11,18 @@
             Mit látunk az országra vetítve?
         </para>
         <section>
+            <title>Az esport helyzete a világban</title>
+            <para>
+		Általános hozzáállás az esporthoz különbözõ országokban. (pl.: Amerikában már általánosak az egyetemi esport közösségek)
+            </para>
+        </section> 
+        <section>
+            <title>Az esport helyzete Magyarországon</title>
+            <para>
+		Magyarországi hozzáállás. (pl.: nem általánosan ismert fogalom, elõítéletek)
+	    </para>
+        </section> 
+        <section>
             <title>Szabályozás</title>
             <para>               
                 Nemzetközi szervezetek, meghatározó játékok, cégek és relációik. 
@@ -42,7 +54,18 @@
                 Mit ad hozzá a közeg, mik a közeg kockázatai?
             </para>
         </section>            
-            
+        <section>
+            <title>A DEAC-Hackers bevonása</title>
+            <para>               
+		  A középvezetõk bevonása az oktatásba, versenyzõi mentorprogram
+	    </para>
+        </section>            
+        <section>
+            <title>Alkalmak beosztása</title>
+            <para>               
+		  Hosszuk meghatározása, hetek idõbeni és játék szerinti felosztása
+	    </para>
+        </section>            
     </section>
         
     <section>
@@ -60,7 +83,38 @@
         </para>            
         <para> 
             Hipotetikus számítások kiadásokról, esetleges bevételekről.
-        </para>            
+        </para>
+        <section>
+            <title>Érdeklõdés felmérése</title>
+            <para>               
+                Általában, majd a DEAC-Hackers főhadiszállásokra vetítve.
+            </para>
+            <para>               
+                Mit ad hozzá a közeg, mik a közeg kockázatai?
+            </para>
+        </section>
+        <section>
+            <title>Fix kiadások</title>
+            <para>
+		Helybérlés költségei, étkeztetés, ...
+            </para>
+        </section>
+        <section>
+            <title>Változó kiadások</title>
+            <para>
+		Programok esetleges költségei
+            </para>
+            <para>               
+                Mit ad hozzá a közeg, mik a közeg kockázatai?
+            </para>
+        </section>
+        <section>
+            <title>Szükséges bevétel</title>
+            <para>               
+                Fentiek alapján kialakult költégek kifizetéséhez szükségséges bevétel.
+            </para>
+        </section>            
+            
     </section>
 
     <section>

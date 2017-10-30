@@ -56,6 +56,32 @@
                 </otheraddr>
             </address>
         </author>
+	        <author>
+            <personname>
+                <honorific></honorific>
+                <surname>Magyar</surname>
+                <firstname>Tamás</firstname>        
+            </personname>    
+            <affiliation>
+                <shortaffil>hallgató, DEIK.</shortaffil>
+                <jobtitle>PTI BSc</jobtitle>
+                <orgname>Debreceni Egyetem, Informatikai Kar</orgname>
+                <orgdiv>Információtechnológiai Tanszék</orgdiv>
+                <address>
+                    <email></email>
+                </address>
+            </affiliation>
+            <address>
+                <street>Kassai út 26.</street>
+                <city>Debrecen</city>
+                <postcode>4028</postcode>
+                <country>Magyarország</country>
+                <email></email>
+                <otheraddr>
+                    <link xlink:href=""></link>
+                </otheraddr>
+            </address>
+        </author>
         <author>
             <personname>
                 <honorific>Dr.</honorific>
@@ -87,13 +113,13 @@
         <pubdate>2017</pubdate>
         <copyright>
             <year>2017</year>
-            <holder>Lovas Rita Barbara, Pál Marcell, Dr. Bátfai Norbert</holder>
+            <holder>Lovas Rita Barbara, Pál Marcell, Magyar Tamás, Dr. Bátfai Norbert</holder>
         </copyright>
         <legalnotice>
             <para>DEAC-Hackers, TDK dolgozat
             </para>
             <para>                
-                Copyright (C) 2017, Lovas Rita Barbara, Pál Marcell, Norbert Bátfai
+                Copyright (C) 2017, Rita Barbara Lovas, Marcell Pál, Tamás Magyar, Norbert Bátfai
             </para>
             <para>
                 This program is free software: you can redistribute it and/or modify
@@ -146,7 +172,7 @@
                 <revnumber>0.0.2</revnumber>
                 <date>2017-10-29</date>
                 <authorinitials>BN</authorinitials>                
-                <revremark>Moduláris szerkezet kialakítása, hogy közösségi repóban hatékonyabban lehessen párhuzamosan dolgozni az anyagon.</revremark>
+                <revremark>Moduláris szerkezet kialakítása, hogy közösségi repóban hatékonyabban lehessen párhuzamosan dolgozni az anyagon. tartalomjegyzék szerkesztése.</revremark>
             </revision>
         </revhistory>
     </info>                                                                                                
