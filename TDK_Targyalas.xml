@@ -3,9 +3,9 @@
          xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="TDK_Targyalas">
     <title>Tárgyalás</title>        
     <section>
-        <title>E-sport pillanatkép</title>
+        <title>Esport pillanatkép</title>
         <para>               
-            Az e-sport helyzete a világban.
+            Az esport helyzete a világban.
         </para>
         <para>               
             Mit látunk az országra vetítve?
@@ -34,15 +34,15 @@
                 Sporttörvény szemelvények. 
             </para>
             <para>                                   
-                E-sport szakszövetség alapíthatóságának megvizsgálása (korábbi NEMESPOR levél a kiindulás, 
+                Esport szakszövetség alapíthatóságának megvizsgálása (korábbi NEMESPOR levél a kiindulás, 
                 de csak rövidebben, mert itt nem ez a cél)
-                viszont különös tekintettel az egyetemi e-sport szakszövetségre, lásd 
+                viszont különös tekintettel az egyetemi esport szakszövetségre, lásd 
                 <link xlink:href="http://www.tankonyvtar.hu/hu/tartalom/tamop425/0025_Nadori-Dancs-Retsagi-Ekler-Gaspar-Sportelmeleti_ismeretek/ch03s12.html">http://www.tankonyvtar.hu/hu/tartalom/tamop425/0025_Nadori-Dancs-Retsagi-Ekler-Gaspar-Sportelmeleti_ismeretek/ch03s12.html</link>.
             </para>
         </section>                        
     </section>
     <section>
-        <title>E-sport kurzus- és táborfejlesztési koncepció</title>
+        <title>Esport kurzus- és táborfejlesztési koncepció</title>
         <para>               
         </para>
         <section>
@@ -118,7 +118,10 @@
     </section>
 
     <section>
-        <title>Szponzorációs stratégia</title>
+        <title>Szponzorációs stratégia [PM]</title>
+	
+	<para>[TODO]</para>
+		
         <para> 
             Bevonhatóak-e szponzorok, ha igen hogyan?
         </para>            

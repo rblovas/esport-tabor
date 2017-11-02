@@ -3,7 +3,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:xi="http://www.w3.org/2001/XInclude">    
     <info>
-        <title>E-sport vállalkozás az egyetemen?</title>
+        <title>Esport vállalkozás az egyetemen?</title>
         <author>
             <personname>
                 <honorific></honorific>
@@ -109,7 +109,7 @@
                 </otheraddr>
             </address>
         </author>
-        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.2</edition>
+        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.3</edition>
         <pubdate>2017</pubdate>
         <copyright>
             <year>2017</year>
@@ -173,6 +173,12 @@
                 <date>2017-10-29</date>
                 <authorinitials>BN</authorinitials>                
                 <revremark>Moduláris szerkezet kialakítása, hogy közösségi repóban hatékonyabban lehessen párhuzamosan dolgozni az anyagon. tartalomjegyzék szerkesztése.</revremark>
+            </revision>
+            <revision>
+                <revnumber>0.0.3</revnumber>
+                <date>2017-11-02</date>
+                <authorinitials>PM</authorinitials>                
+                <revremark>Részemre kiadott feladatok megjelölése, azok iniciálizálása. Valamint a dolgozat szervezésének és szerkezetének megadása.</revremark>
             </revision>
         </revhistory>
     </info>                                                                                                

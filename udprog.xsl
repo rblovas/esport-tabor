@@ -11,4 +11,9 @@
 <xsl:param name="draft.mode">no</xsl:param>
 <xsl:param name="latex.babel.language">magyar</xsl:param>
 
+<xsl:template match="para[@role='bold']">
+   <xsl:call-template  name="inline.boldseq"/>
+</xsl:template>
+
+
 </xsl:stylesheet>

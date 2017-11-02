@@ -6,7 +6,7 @@
         Mi a munka motivációja, mik a vizsgált kérdések?
     </para>
     <section>
-        <title>E-sport</title>
+        <title>Esport</title>
         <para>
             Tudományos meghatározások felvillantása (majd megadom a feldolgozandó cikkeket az irodalomjegyzékben.)
             Szubjektív benyomások pár mondatban, bármi személyes tapasztalat, élmény, meglátás. Mi a személyes motiváció?
@@ -19,30 +19,86 @@
         </section>                
     </section>        
     <section>
-        <title>Szakirodalmi háttér</title>
+        <title>Szakirodalmi háttér [PM]</title>
+	
+	<para>[TODO]</para>
+	
         <para>
             A kapcsolódó főbb tudományos publikációk hivatkozása és 1-2 mondatos összefoglalása az alábbi területeken: 
-            e-sport és sport kapcsolata, e-sport és gazdaság kapcsolata, e-sport és oktatás kapcsolata (a kiinduló cikkeket
+            esport és sport kapcsolata, esport és gazdaság kapcsolata, esport és oktatás kapcsolata (a kiinduló cikkeket
             megjelölöm a következő iterációban az irodalomjegyzékben, ezt a szakirodalmi hálót természetesen felderíthetitek,
             tovább bővíthetitek).
         </para>
         <para>
-            Vannak-e ismert jó gyakorlatok, akár ha nem is e-sport táboroztatásra, hanem sportban, oktatásban általában.
+            Vannak-e ismert jó gyakorlatok, akár ha nem is esport táboroztatásra, hanem sportban, oktatásban általában.
             Pl. az úszás utánpótlás rendszerét vázlatosan kiemelve?
         </para>
     </section>        
     <section>
-	<title>Kapcsolódó munkák</title>
-        <para>
+	<title>Kapcsolódó munkák [PM]</title>
+	
+	<para>[TODO]</para>
+		
+	<para>
             Az eddigi saját munkáink és publikációink kapcsolódása az előző pont mintájára.               
         </para>
     </section>                
     <section>
-        <title>A dolgozat szervezése és szerkezete</title>
-        <para>
-            Hol elérhető, például repóban? (Javaslatom, hogy csináljatok egy GitHub repót.) Miben készült? (DocBook XML 5.1, 
-            eleve ebben írom már ezt.) A szereplő konkrét fejezetek milyen sorrendben milyen tartalomal szerepelnek (1-2 mondat fejezetenként).
-        </para>
+        <title>A dolgozat szervezése és szerkezete [PM]</title>
+        
+	<para>[TODO]</para>
+		
+	<para>
+	    Projektünket online egy GitHub tárolóból lehet elérni, ennek használata azért is volt indokolt, mert többen szerkesztjük a dokumentumot, így mindenki a saját verziójában rendelkező újításokkal kibővítve tudja frissíteni a dolgozatot.
+	    Mindemellett a gyakorlatban majdcsak mindenhol használnak a GitHub-hoz hasonló tárolókat, így ez tökéletes alkalom, hogy a tanórákon kívül plusz tudást vegyünk magunkhoz, melyet majd leendő munkahelyünkön is kamatoztatni tudunk.
+	</para> 	
+	<para>
+	     A tároló a következő címen érhető el: <link xlink:href="https://github.com/rblovas/esport-tabor">https://github.com/rblovas/esport-tabor</link>.
+	</para>
+	
+ 	<para>
+	    Dokumentumunk DocBook 5.1 XML felhasználásával írjuk. Ez a szabvány jelentősen megkönnyíti a munkánkat a szöveg formázása és elrendezése terén.
+	</para>
+	
+	<para>
+	  A dolgozat az alábbi fejezetekkel foglalkozik:
+	</para>
+	
+	<para role="bold">
+	  Esport pillanatkép:
+	</para>
+	<para>
+	  Az esport helyzete a világban és Magyarországi viszonylatban.
+	</para>
+	<para role="bold">
+	  Esport kurzus- és táborfejlesztési koncepció:
+	</para>
+	<para>
+	  Egy kurzus vagy tábor rendezésének körülményeit vizsgáljuk.
+	</para>
+	<para role="bold">
+	  Interjúk és esettanulmányok:
+	</para>
+	<para>
+	  A kutatás során megkérdezett alanyok bemutatása, valamint esettanulmányok már megrendezésre került eseményekről.
+	</para>
+	<para role="bold">
+	  Számítások:
+	</para>
+	<para>
+	  A már fentebb említett kurzus vagy tábor rendezésének költségeit, esetleges bevételeit vizsgáljuk.
+	</para>
+	<para role="bold">
+	  Szponzorációs stratégia:
+	</para>
+	<para>
+	  Külsős cég, partner, szponzor bevonása a projektbe.
+	</para>
+	
+	<para>
+	  A fejezetek sorrendje következetes, lépésről-lépésre próbálkoztuk körbejárni a témát.
+	</para>
+	
     </section>        
     <section>
         <title>A dolgozat módszere</title>
