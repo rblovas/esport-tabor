@@ -15,5 +15,4 @@
    <xsl:call-template  name="inline.boldseq"/>
 </xsl:template>
 
-
 </xsl:stylesheet>

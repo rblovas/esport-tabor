@@ -7,23 +7,32 @@
         <para>               
             Az esport helyzete a világban.
         </para>
+	<!--
         <para>               
             Mit látunk az országra vetítve?
         </para>
+	-->
+	
         <section>
             <title>Az esport helyzete a világban</title>
+	    
+	    <!--
             <para>
 		Általános hozzáállás az esporthoz különbözõ országokban. (pl.: Amerikában már általánosak az egyetemi esport közösségek)
             </para>
+	    -->
         </section> 
         <section>
             <title>Az esport helyzete Magyarországon</title>
+	    <!--
             <para>
 		Magyarországi hozzáállás. (pl.: nem általánosan ismert fogalom, elõítéletek)
 	    </para>
+	    -->
         </section> 
         <section>
             <title>Szabályozás</title>
+	    <!--
             <para>               
                 Nemzetközi szervezetek, meghatározó játékok, cégek és relációik. 
             </para>
@@ -39,6 +48,7 @@
                 viszont különös tekintettel az egyetemi esport szakszövetségre, lásd 
                 <link xlink:href="http://www.tankonyvtar.hu/hu/tartalom/tamop425/0025_Nadori-Dancs-Retsagi-Ekler-Gaspar-Sportelmeleti_ismeretek/ch03s12.html">http://www.tankonyvtar.hu/hu/tartalom/tamop425/0025_Nadori-Dancs-Retsagi-Ekler-Gaspar-Sportelmeleti_ismeretek/ch03s12.html</link>.
             </para>
+	    -->
         </section>                        
     </section>
     <section>
@@ -47,72 +57,90 @@
         </para>
         <section>
             <title>Az egyetemi közeg bemutatása</title>
+	    <!--
             <para>               
                 Általában, majd a DEAC-Hackers főhadiszállásokra vetítve.
             </para>
             <para>               
                 Mit ad hozzá a közeg, mik a közeg kockázatai?
             </para>
+	    -->
         </section>            
         <section>
             <title>A DEAC-Hackers bevonása</title>
+	    <!--
             <para>               
 		  A középvezetõk bevonása az oktatásba, versenyzõi mentorprogram
 	    </para>
+	    -->
         </section>            
         <section>
             <title>Alkalmak beosztása</title>
+	    <!--
             <para>               
 		  Hosszuk meghatározása, hetek idõbeni és játék szerinti felosztása
 	    </para>
+	    -->
         </section>            
     </section>
         
     <section>
         <title>Interjúk és esettanulmányok</title>
+	<!--
         <para> 
             Tételesen végigvéve minden érdeklődő DEAC-Hackers főhadiszállást: interjúk, technikai elemzések adott játékok                
             tekintetében stb.
         </para>            
+	-->
     </section>
 
     <section>
         <title>Számítások</title>
+	<!--
         <para> 
             Érdeklődés előzetes felmérése.
         </para>            
         <para> 
             Hipotetikus számítások kiadásokról, esetleges bevételekről.
         </para>
+	-->
         <section>
             <title>Érdeklõdés felmérése</title>
+	    <!--
             <para>               
                 Általában, majd a DEAC-Hackers főhadiszállásokra vetítve.
             </para>
             <para>               
                 Mit ad hozzá a közeg, mik a közeg kockázatai?
             </para>
+	    -->
         </section>
         <section>
             <title>Fix kiadások</title>
+	    <!--
             <para>
 		Helybérlés költségei, étkeztetés, ...
             </para>
+	    -->
         </section>
         <section>
             <title>Változó kiadások</title>
+	    <!--
             <para>
 		Programok esetleges költségei
             </para>
             <para>               
                 Mit ad hozzá a közeg, mik a közeg kockázatai?
             </para>
+	    -->
         </section>
         <section>
             <title>Szükséges bevétel</title>
+	    <!--
             <para>               
                 Fentiek alapján kialakult költégek kifizetéséhez szükségséges bevétel.
             </para>
+	    -->
         </section>            
             
     </section>
@@ -120,11 +148,12 @@
     <section>
         <title>Szponzorációs stratégia [PM]</title>
 	
-	<para>[TODO]</para>
-		
+	<literallayout>[TODO]</literallayout>
+	<!--
         <para> 
             Bevonhatóak-e szponzorok, ha igen hogyan?
-        </para>            
+        </para>         
+	-->
     </section>
                         
 </section>                                                                                   

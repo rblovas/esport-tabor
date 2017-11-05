@@ -56,7 +56,7 @@
                 </otheraddr>
             </address>
         </author>
-	        <author>
+	<author>
             <personname>
                 <honorific></honorific>
                 <surname>Magyar</surname>
@@ -109,7 +109,8 @@
                 </otheraddr>
             </address>
         </author>
-        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.3</edition>
+	
+        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.4</edition>
         <pubdate>2017</pubdate>
         <copyright>
             <year>2017</year>
@@ -179,6 +180,12 @@
                 <date>2017-11-02</date>
                 <authorinitials>PM</authorinitials>                
                 <revremark>Részemre kiadott feladatok megjelölése, azok iniciálizálása. Valamint a dolgozat szervezésének és szerkezetének megadása.</revremark>
+            </revision>
+	    <revision>
+                <revnumber>0.0.4</revnumber>
+                <date>2017-11-05</date>
+                <authorinitials>PM</authorinitials>                
+                <revremark>A társszerkesztők eddigi munkálatainak hozzáadása a dokumentumhoz.</revremark>
             </revision>
         </revhistory>
     </info>                                                                                                
