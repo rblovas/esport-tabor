@@ -4,9 +4,7 @@
     <title>Tárgyalás</title>        
     <section>
         <title>Esport pillanatkép</title>
-        <para>               
-            Az esport helyzete a világban.
-        </para>
+        
 	<!--
         <para>               
             Mit látunk az országra vetítve?
@@ -16,6 +14,41 @@
         <section>
             <title>Az esport helyzete a világban</title>
 	    
+	    <literallayout>[TODO - alpha]</literallayout>
+	    
+	      <para>               
+		  A mai világban az esport egy hatalmas, folyamatosan növekvő nézőtáborral rendelkezik.
+		  2013-ben világszerte csupán 71 millió körül mozgott azok száma akik valamilyen módon követtek esport mérkőzéseket,
+		  ez a szám 2015-re felugrott 226 millióra. Mára a nézők száma elérte az éves 300 milliós mérföldkövet.
+		  Ez a steady(??) fejlődés a különböző, egyre jobban elérhető online közvetítő platformoknak, 
+		  ún. streamer platformoknak köszönhető, amelyek közül is a Twitch.tv emelkedett ki, 
+		  mivel számos nagyobb esport mérkőzést ott közvetítettek élőben, de az átlagos játékosnak is lehetőséget ad, 
+		  hogy megossza játékmenetét. Jelenleg a legsikeresebb esport játékkategóriák a MOBA,  FPS, és RTS, 
+		  és sorra a League of Legends, Counter-Strike:Global Offensive, és a StarCraft 2 emelkednek ki,
+		  mint a legnézettebb, illetve legjátszottabb videójátékok. De ezek mellett érdemes megemlíteni a DOTA 2, 
+		  és az Overwatch-ot is, melyek szintén hatalmas rajongói táborral rendelkeznek. 
+		  
+		  [talán adatok a játékosok számáról].
+	      </para>
+	      <para>  
+		  Általában esporttal a multiplayer játékokat kötik össze, ennek ellenére majdnem az összes videójátékból létezik
+		  valamiféle verseny, legyen az Super Mario vagy Fifa. Az ilyen versenyek általában a legmagasabb pontért folynak, 
+		  vagy egy speedrun a leggyorsabb végigjátszásért. A fentebb említett videójátékokból folyamatosan kerülnek
+		  megrendezésre kisebb-nagyobb kupák, amelyeken amatőr csapatok is részt vehetnek, éves szinten meg világbajnokságok is,
+		  ahol a különböző országok legjobb csapatai nem csak a világbajnoki címért versenyeznek, hanem a legjobbaknak járó
+		  pénzösszegért is. Ez az összeg játékonként változik, az eddigi legnagyobb összdíjazású verseny a “The International 2017”
+		  volt több mint 20 millió dollárral, amiből az első hely 10 millió dollárt nyert. 
+		  
+		  [még több ilyen felsorolás]
+		  [legnagyobb nézettségű meccsek, idei adatok]
+		  [cégek hogy kapcsolódnak, specializálódás, gamer cucc]
+		  [szponzor megjelenése]
+		  [lehet munka?, esport vs sport]
+		  [előítélet, pozitív vs negatív hatás]
+		  [jövő, olimpia]
+
+		  https://www.esportsearnings.com/tournaments
+	      </para>
 	    <!--
             <para>
 		Általános hozzáállás az esporthoz különbözõ országokban. (pl.: Amerikában már általánosak az egyetemi esport közösségek)
@@ -148,12 +181,37 @@
     <section>
         <title>Szponzorációs stratégia [PM]</title>
 	
-	<literallayout>[TODO]</literallayout>
+	<literallayout>[TODO - beta]</literallayout>
 	<!--
         <para> 
             Bevonhatóak-e szponzorok, ha igen hogyan?
         </para>         
 	-->
+	<para>
+	  Azt bátran kijelenthetjük, hogy mindaz, amit eddig kitaláltunk támogatások nélkül nem jöhet létre. A támogatás több módon is megnyílvánulhat:
+	</para>
+	
+	<para>
+	  Beszélhetünk anyagi támogatásról, mely hozzájárul a programok lebonyolításának sikerességéhez, a táborozókkal foglalkozó csapatvezetők fizetéséhez,
+	  valamint bármilyen további esetleges kiadáshoz.
+	</para> 
+	
+	<para>
+	  Szükség lehet eszközökben megnyilvánuló szponzorációra is. Ugyan az egyetem rendelkezik számítógépekkel és néhány egyéb leendő munkaeszközzel
+	  (például 2-3 darab LEGO robot), egy táborban a zökkenőmentes szervezéshez ennél többre van szükség.
+	</para>
+	
+	<para>
+	  Partnernek lenni több területet is lefed. Tervünk során szeretnénk az Invictus debreceni játékfejlesztő céghez is ellátogatni, illetve
+	  amennyiben ez nem megoldható egy-két előadás lebonyolítását kérni, hogy a számítógépes játékok legyárátásának folyamata után érdeklődők
+	  egy átfogóbb képet kapjanak, így motiválva őket a jövőbeni tanulásra és küzdésre.
+	</para>
+	
+	<literallayout>
+	  Ebben a bekezdésben azokról az esetleges támogatókról írunk majd, akikkel sikerült megállapodnunk.
+	</literallayout>
+	
+	
     </section>
                         
 </section>                                                                                   

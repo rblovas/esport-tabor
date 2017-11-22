@@ -110,7 +110,7 @@
             </address>
         </author>
 	
-        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.4</edition>
+        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.5</edition>
         <pubdate>2017</pubdate>
         <copyright>
             <year>2017</year>
@@ -187,6 +187,12 @@
                 <authorinitials>PM</authorinitials>                
                 <revremark>A társszerkesztők eddigi munkálatainak hozzáadása a dokumentumhoz.</revremark>
             </revision>
+	    <revision>
+                <revnumber>0.0.5</revnumber>
+                <date>2017-11-22</date>
+                <authorinitials>PM</authorinitials>                
+                <revremark>Újabb írások hozzáadása a dokumentumhoz.</revremark>
+            </revision>
         </revhistory>
     </info>                                                                                                
     <xi:include href="TDK_Bevezetes.xml">
@@ -210,9 +216,6 @@
             </para>
         </xi:fallback>
     </xi:include>      
-    <section>
-        <title>Köszönet</title>
-    </section>                                                                                   
     <xi:include href="TDK_Irodalom.xml">
         <xi:fallback>
             <para>
