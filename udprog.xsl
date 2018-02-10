@@ -15,4 +15,8 @@
    <xsl:call-template  name="inline.boldseq"/>
 </xsl:template>
 
+<xsl:template match="literallayout[@role='bold']">
+   <xsl:call-template  name="inline.boldseq"/>
+</xsl:template>
+
 </xsl:stylesheet>

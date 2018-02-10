@@ -8,7 +8,7 @@
     </para>
     -->
     <section>
-        <title>Esport</title>
+        <title>Esport[MT]</title>
 	
 	<literallayout>[TODO - beta]</literallayout>
 	<!--	
@@ -57,13 +57,7 @@
 	  Egyre több profi csapat jelenik meg, kezdetben átlagemberként belépve bővül a tagok száma, 
 	  de később akár profi játékosossá is válhatnak.
         </para>
-	
-        <section>
-            <title>DEAC-Hackers</title>
-            <para>
-                A DEAC-Hackers rövid bemutatása.
-            </para>
-        </section>                
+
     </section>        
     <section>
         <title>Szakirodalmi háttér [PM]</title>
@@ -169,53 +163,86 @@
 	
     </section>        
     <section>
-        <title>A dolgozat módszere</title>
-	<literallayout>[TODO - beta]</literallayout>
+	  <title>A dolgozat módszere[LRB]</title>
+	  <literallayout>[TODO - beta]</literallayout>
+	  
+	  <!--
+	  <para>
+	      Hogyan dolgozunk? Az interjú alanyok és esettanulmányok bemutatása.
+	  </para>
+	  -->
+	  
+	  <para>
+	    Dolgozatunk kezdeti fázisában felkerestük a Minecraft tábor debreceni munkatársát, Jármi Lászlót.
+	  </para>
+	  <para>
+	    A vállalkozás lehetőségeinek felmérését és megszervezését az érintett város, Debrecen lakosaihoz, helyszíneihez mérten végezzük. 
+	    A felmérést a lehetséges helyszínek keresésével és felszerélésük minőségének, teljesítményének vizsgálatával kezdtük. 
+	    Több terem ajánlatot is kaptunk témavezetőnk közreműködésével, úgy mint a Kassai úti Campus Könyvtár …gépterme,…..
+	  </para>
+	  <para>
+	    A termek feltérképezését a könyvtári gépteremmel kezdtük, ugyanis helyszínileg az bizonyult a legmegfelelőbbnek. 
+	    A főleg Informatikai Kar tanáraiból és hallgatóiból álló DEAC-Hackers tagjainak, 
+	    akik terveink szerint részt vennének a vállalkozás szervezésében és fenntartásában, gyorsan megközelíthető, 
+	    a táborozók szempontjából pedig a Főnix parkolója és a Lovarda étterem nyújt előnyt a helyválasztásban. 
+	    A DEAC-Hackers alelnökének közreműködésével felvettük a kapcsolatot az intézmény vezetőjével és rendszergazdájával.
+	    Az összeköttetés kialakulásával megkezdtük interjú jellegű kérdéseink kidolgozását,
+	    melyek elkerülhetetlenek a kezdeti tervezési fázisban. 
+	    Az e-mailben folytatott levelezések mellett a géptermet és annak számítógépeit is felmértük, 
+	    a szükséges tényezők szerint. A terem paraméterei a várthoz képest kiemelkedő szintet érték el,
+	    melyet az „Egyetemi közeg bemutatása” alcímnél fogunk részletesen kifejteni.
+	  </para>
+	  <para>
+	    A további termeket a könyvtárhoz hasonló módon mértük fel, de már gyorsabban és gördülékenyebben a korábbiból felkészülve.
+	    A termeket a könyvtárral kapcsolatban szerzett adatokhoz mérten rangsoroltuk. 
+	  </para>
+	  <para>
+	    A vállalkozás sikerességének következő tényezője, amit vizsgálnunk kellett a résztvevők várható száma, 
+	    életkora és érdeklődési köre az e-sport világában. Mivel célközönségünk abba a korosztályba tartozik, 
+	    akiknél általános és mindennapi a Facebook használata, bejegyzések formájában kértünk közreműködést munkánkhoz. 
+	    Segítségükkel egy kérdőívre irányítottuk át az érdeklődőt, melyet kitöltve megadhat minden,
+	    a vállalkozásunk szempontjából lényeges információt. Külön vizsgáltuk az érdeklődőket résztvevőként vagy szülőként,
+	    hiszen mindkét félnek más és más szempontok fontosak, de a jövőben törekedni fogunk mindkét fél igényeit teljesíteni.
+	    A 253 kitöltő adataiból a következő eredményeket szűrtük le:
+	  </para>
+		<literallayout role="bold">A kitöltők több, mint 90%-a gyermek volt...</literallayout>
+		<para>
+		</para>
+		<para>
+		...és közülök 96%, tehát 229-ből 220-an támogatnák egy esport tábor létrehozását.
+		A gyermekektől megkérdeztünk a tábor szempontjából fontos technikai adatokat is 
+		(milyen gyakorisággal és mivel játszanak, milyen felszerelésük van).
+		</para>
+		<para>
+		Ezekből arra jutottunk, hogy a többség hetente több, mint 20 órát tölt videójátékkal, nagyjából 2-4 éve játszik aktívan,
+		és várhatóan a népszerűbb játékokat preferálják. Ilyenek például a League of Legends, Counter Strike: Global Offensive 
+		és Overwatch.
+		</para>
+		<para>
+		A gyermekek 61.8%-ának nincs a kiválasztott játékaikhoz megfelelő laptopjuk, így indokolt külső forrásból olyan számítógépek
+		beszerzése, melyekkel a fentebb megadott játékok gondnélkül játszhatóak.
+		</para>
+		<para>
+		Mivel 52.3% nem játszott versenyszerűen videójátékokkal, úgy véljük még inkább hasznos lenne a tábor megszervezése,
+		hiszen így előkészítés szintjén tapasztalatot gyűjthetnek, ezáltal is elkerülvén a jövőbeni stresszt és más gátló faktorokat.
+		</para>
+		<para>
+		Megkérdeztük még, a kitöltő gyermekek korát is, hiszen majdcsaknem ez a legbefolyásolóbb tényező a szervezésben. 
+		Nem "egészséges" ugyanis nagy korkülönbségű gyermekeket egyszerre foglalkoztatni, hisz minden korcsoportnak más és más igénye,
+		problémái akadnak. Szerencsére várakozásunknak eleget téve a főbb korosztály 13-17 éves, ebből is a 14 és 15 évesek voltak többségben.	  
+		</para>
+		<para>
+		Végül szerettük volna megtudni azt is, hogy az érdeklődők melyik megyében laknak, hiszen elsőkörben napközis formában
+		kívánnánk megrendezni a tábort, tehát fontos, hogy elsőkörben Hajdú-Bihar megyében mennyien érdeklődnek. 
+		Ugyan a kitöltők 27.3% százaléka Pest megyében él, a következő nagyobb ugrás 16.8%-al meglepő módon Hajdú-Bihar lett.
+		</para>
 	
-	<!--
-	<para>
-            Hogyan dolgozunk? Az interjú alanyok és esettanulmányok bemutatása.
-	</para>
-	-->
-	
-	<para>
-	  Dolgozatunk kezdeti fázisában felkerestük a Minecraft tábor debreceni munkatársát, Jármi Lászlót.
-	</para>
-	<para>
-	  A vállalkozás lehetőségeinek felmérését és megszervezését az érintett város, Debrecen lakosaihoz, helyszíneihez mérten végezzük. 
-	  A felmérést a lehetséges helyszínek keresésével és felszerélésük minőségének, teljesítményének vizsgálatával kezdtük. 
-	  Több terem ajánlatot is kaptunk témavezetőnk közreműködésével, úgy mint a Kassai úti Campus Könyvtár …gépterme,…..
-	</para>
-	<para>
-	  A termek feltérképezését a könyvtári gépteremmel kezdtük, ugyanis helyszínileg az bizonyult a legmegfelelőbbnek. 
-	  A főleg Informatikai Kar tanáraiból és hallgatóiból álló DEAC-Hackers tagjainak, 
-	  akik terveink szerint részt vennének a vállalkozás szervezésében és fenntartásában, gyorsan megközelíthető, 
-	  a táborozók szempontjából pedig a Főnix parkolója és a Lovarda étterem nyújt előnyt a helyválasztás. 
-	  A DEAC-Hackers alelnökének közreműködésével felvettük a kapcsolatot az intézmény vezetőjével és rendszergazdájával.
-	  Az összeköttetés kialakulásával megkezdtük interjú jellegű kérdéseink kidolgozását,
-	  melyek elkerülhetetlenek a kezdeti tervezési fázisban. 
-	  Az e-mailben folytatott levelezések mellett a géptermet és annak számítógépeit is felmértük, 
-	  a szükséges tényezők szerint. A terem paraméterei a várthoz képest kiemelkedő szintet érték el,
-	  melyet az „Egyetemi közeg bemutatása” alcímnél fogunk részletesen kifejteni.
-	</para>
-	<para>
-	  A további termeket a könyvtárhoz hasonló módon mértük fel, de már gyorsabban és gördülékenyebben a korábbiból felkészülve.
-	  A termeket a könyvtárral kapcsolatban szerzett adatokhoz mérten rangsoroltuk. 
-	</para>
-	<para>
-	  A vállalkozás sikerességének következő tényezője, amit vizsgálnunk kellett a résztvevők várható száma, 
-	  életkora és érdeklődési köre az e-sport világában. Mivel célközönségünk abba a korosztályba tartozik, 
-	  akiknél általános és mindennapi a facebook használata, egy bejegyzés formájában kértünk közreműködést munkánkhoz. 
-	  Segítségével egy kérdőívre irányítottuk át az érdeklődőt, melyet kitöltve megadhat minden,
-	  a vállalkozásunk szempontjából lényeges információt. Kördiagrammokkal tettük átláthatóvá az bejövő adatok végeredményét: 
-	</para>
-	<para>
-            A kérdőívet és az adatokat mellékletben csatoltuk.
-        </para>
-	<para>
-            Az információk segítségével megkezdhettük a számításainkat a vállalat kiadásainak és bevételeinek realizálásához. 
-        </para>
+	 <para>
+             A kérdőívet és az adatokat mellékletben csatoltuk.
+          </para>
+	  <para>
+             Az információk segítségével megkezdhettük a számításainkat a vállalat kiadásainak és bevételeinek realizálásához. 
+          </para>
 	
     </section>                
 </section>
-    

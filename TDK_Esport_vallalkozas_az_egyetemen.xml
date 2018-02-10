@@ -181,17 +181,23 @@
                 <authorinitials>PM</authorinitials>                
                 <revremark>Részemre kiadott feladatok megjelölése, azok iniciálizálása. Valamint a dolgozat szervezésének és szerkezetének megadása.</revremark>
             </revision>
-	    <revision>
+	        <revision>
                 <revnumber>0.0.4</revnumber>
                 <date>2017-11-05</date>
                 <authorinitials>PM</authorinitials>                
                 <revremark>A társszerkesztők eddigi munkálatainak hozzáadása a dokumentumhoz.</revremark>
             </revision>
-	    <revision>
+	        <revision>
                 <revnumber>0.0.5</revnumber>
                 <date>2017-11-22</date>
                 <authorinitials>PM</authorinitials>                
                 <revremark>Újabb írások hozzáadása a dokumentumhoz.</revremark>
+            </revision>
+            <revision>
+                <revnumber>0.0.6</revnumber>
+                <date>2018-02-10</date>
+                <authorinitials>PM</authorinitials>
+                <revremark>Újradolgozott tematika, bővítés, egyénekre kiadott feladatok jelölése.</revremark>
             </revision>
         </revhistory>
     </info>                                                                                                
