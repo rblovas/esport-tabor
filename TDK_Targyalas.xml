@@ -1,72 +1,80 @@
-<section xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="TDK_Targyalas">
-	<title>Tárgyalás</title>
+<section xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://docbook.org/ns/docbook" version="5.1"
+         xml:lang="hu"
+         xml:id="TDK_Targyalas">
+    <title>Tárgyalás</title>
 
-	<section>
-		<title>Esport pillanatkép[MT]</title>
+    <section>
+        <title>Esport pillanatkép[MT]</title>
 
-		<!--
+        <!--
         <para>
             folyamatosan változó világunkban az esport is változik, növekszik, jelenleg...
         </para>
         -->
 
-		<section>
-			<title>Az esport helyzete a világban</title>
+        <section>
+            <title>Az esport helyzete a világban</title>
 
-			<literallayout>[TODO - alpha]</literallayout>
+            <literallayout>[TODO - alpha]</literallayout>
 
-			<para>
-				A mai világban az esport egy hatalmas, folyamatosan növekvő nézőtáborral rendelkezik.
-				2013-ben világszerte csupán 71 millió körül mozgott azok száma akik valamilyen módon követtek esport mérkőzéseket,
-				ez a szám 2015-re felugrott 226 millióra. Mára a nézők száma elérte az éves 300 milliós mérföldkövet.
-				Ez a steady(??) fejlődés a különböző, egyre jobban elérhető online közvetítő platformoknak,
-				ún. streamer platformoknak köszönhető, amelyek közül is a Twitch.tv emelkedett ki,
-				mivel számos nagyobb esport mérkőzést ott közvetítettek élőben, de az átlagos játékosnak is lehetőséget ad,
-				hogy megossza játékmenetét. Jelenleg a legsikeresebb esport játékkategóriák a MOBA,  FPS, és RTS,
-				és sorra a League of Legends, Counter-Strike:Global Offensive, és a StarCraft 2 emelkednek ki,
-				mint a legnézettebb, illetve legjátszottabb videójátékok. De ezek mellett érdemes megemlíteni a DOTA 2,
-				és az Overwatch-ot is, melyek szintén hatalmas rajongói táborral rendelkeznek.
+            <para>
+                A mai világban az esport egy hatalmas, folyamatosan növekvő nézőtáborral rendelkezik.
+                2013-ben világszerte csupán 71 millió körül mozgott azok száma akik valamilyen módon követtek esport
+                mérkőzéseket,
+                ez a szám 2015-re felugrott 226 millióra. Mára a nézők száma elérte az éves 300 milliós mérföldkövet.
+                Ez a steady(??) fejlődés a különböző, egyre jobban elérhető online közvetítő platformoknak,
+                ún. streamer platformoknak köszönhető, amelyek közül is a Twitch.tv emelkedett ki,
+                mivel számos nagyobb esport mérkőzést ott közvetítettek élőben, de az átlagos játékosnak is lehetőséget
+                ad,
+                hogy megossza játékmenetét. Jelenleg a legsikeresebb esport játékkategóriák a MOBA, FPS, és RTS,
+                és sorra a League of Legends, Counter-Strike:Global Offensive, és a StarCraft 2 emelkednek ki,
+                mint a legnézettebb, illetve legjátszottabb videójátékok. De ezek mellett érdemes megemlíteni a DOTA 2,
+                és az Overwatch-ot is, melyek szintén hatalmas rajongói táborral rendelkeznek.
 
-				[talán adatok a játékosok számáról].
-			</para>
-			<para>
-				Általában esporttal a multiplayer játékokat kötik össze, ennek ellenére majdnem az összes videójátékból létezik
-				valamiféle verseny, legyen az Super Mario vagy Fifa. Az ilyen versenyek általában a legmagasabb pontért folynak,
-				vagy egy speedrun a leggyorsabb végigjátszásért. A fentebb említett videójátékokból folyamatosan kerülnek
-				megrendezésre kisebb-nagyobb kupák, amelyeken amatőr csapatok is részt vehetnek, éves szinten meg világbajnokságok is,
-				ahol a különböző országok legjobb csapatai nem csak a világbajnoki címért versenyeznek, hanem a legjobbaknak járó
-				pénzösszegért is. Ez az összeg játékonként változik, az eddigi legnagyobb összdíjazású verseny a “The International 2017”
-				volt több mint 20 millió dollárral, amiből az első hely 10 millió dollárt nyert.
+                [talán adatok a játékosok számáról].
+            </para>
+            <para>
+                Általában esporttal a multiplayer játékokat kötik össze, ennek ellenére majdnem az összes videójátékból
+                létezik
+                valamiféle verseny, legyen az Super Mario vagy Fifa. Az ilyen versenyek általában a legmagasabb pontért
+                folynak,
+                vagy egy speedrun a leggyorsabb végigjátszásért. A fentebb említett videójátékokból folyamatosan
+                kerülnek
+                megrendezésre kisebb-nagyobb kupák, amelyeken amatőr csapatok is részt vehetnek, éves szinten meg
+                világbajnokságok is,
+                ahol a különböző országok legjobb csapatai nem csak a világbajnoki címért versenyeznek, hanem a
+                legjobbaknak járó
+                pénzösszegért is. Ez az összeg játékonként változik, az eddigi legnagyobb összdíjazású verseny a “The
+                International 2017”
+                volt több mint 20 millió dollárral, amiből az első hely 10 millió dollárt nyert.
 
-				[még több ilyen felsorolás]
-				[legnagyobb nézettségű meccsek, idei adatok]
-				[cégek hogy kapcsolódnak, specializálódás, gamer cucc]
-				[szponzor megjelenése]
-				[lehet munka?, esport vs sport]
-				[előítélet, pozitív vs negatív hatás]
-				[jövő, olimpia]
+                [még több ilyen felsorolás]
+                [legnagyobb nézettségű meccsek, idei adatok]
+                [cégek hogy kapcsolódnak, specializálódás, gamer cucc]
+                [szponzor megjelenése]
+                [lehet munka?, esport vs sport]
+                [előítélet, pozitív vs negatív hatás]
+                [jövő, olimpia]
 
-				https://www.esportsearnings.com/tournaments
-			</para>
-			<!--
+                https://www.esportsearnings.com/tournaments
+            </para>
+            <!--
                 <para>
             Általános hozzáállás az esporthoz különbözõ országokban. (pl.: Amerikában már általánosak az egyetemi esport közösségek)
                 </para>
             -->
-		</section>
-		<section>
-			<title>Az esport helyzete Magyarországon</title>
-			<!--
+        </section>
+        <section>
+            <title>Az esport helyzete Magyarországon</title>
+            <!--
                 <para>
             Magyarországi hozzáállás. (pl.: nem általánosan ismert fogalom, elõítéletek)
             </para>
             -->
-		</section>
-		<section>
-			<title>Szabályozás[LRB]</title>
-			<!--
+        </section>
+        <section>
+            <title>Szabályozás[LRB]</title>
+            <!--
                 <para>
                     Nemzetközi szervezetek, meghatározó játékok, cégek és relációik.
                 </para>
@@ -83,139 +91,371 @@
                     <link xlink:href="http://www.tankonyvtar.hu/hu/tartalom/tamop425/0025_Nadori-Dancs-Retsagi-Ekler-Gaspar-Sportelmeleti_ismeretek/ch03s12.html">http://www.tankonyvtar.hu/hu/tartalom/tamop425/0025_Nadori-Dancs-Retsagi-Ekler-Gaspar-Sportelmeleti_ismeretek/ch03s12.html</link>.
                 </para>
             -->
-		</section>
-	</section>
+        </section>
+    </section>
 
-   	<section>
-		<title>Esport kurzus- és táborfejlesztési koncepció[PM]</title>
-			<!-- táborról általánosan,
-			-->
-					<para>
-					</para>
-					<section>
-						<title>Az egyetemi közeg bemutatása[PM]</title>
-					<!--
-						<para>
-							Általában, majd a DEAC-Hackers főhadiszállásokra vetítve.
-						</para>
-						<para>
-							Mit ad hozzá a közeg, mik a közeg kockázatai?
-						</para>
-					-->
-					</section>
-					<section>
-						<title>A DEAC-Hackers bevonása[MT]</title>
-					<!--
-						<para>
-					  A középvezetõk bevonása az oktatásba, versenyzõi mentorprogram
-					</para>
-					-->
-					</section>
-					<section>
-						<title>Alkalmak beosztása[LRB]</title>
-					<!--
-						<para>
-					  Hosszuk meghatározása, hetek idõbeni és játék szerinti felosztása
-					</para>
-					-->
-					</section>
-				<section>
-						<title>Edzésterv[LRB]</title>
-					<!--
-					<para>
-						Edzésterv
-					</para>
-					-->
-				</section>
+    <section>
+        <title>Esport kurzus- és táborfejlesztési koncepció[PM]</title>
+        <!-- táborról általánosan -->
+        <para>
+            A következő bekezdésekben egy esporttal valamint programozással egybekötött gyermektábor
+            megvalósításának ötletével foglalkozunk szakmai irányból megközelítve a témát.
+        </para>
+        <section>
+            <title>Az egyetemi közeg bemutatása[PM]</title>
+            <!--
+                <para>
+                    Általában, majd a DEAC-Hackers főhadiszállásokra vetítve.
+                </para>
+                <para>
+                    Mit ad hozzá a közeg, mik a közeg kockázatai?
+                </para>
+            -->
+            <para>
+                Bátran kijelenthetjük, hogy a Debreceni Egyetem támogatja az esport törekvéseket.
+                Ennek köszönhetően 2017 szeptemberében létrejöhetett a DEAC-Hackers, a Debreceni Egyetem
+                Atlétikai Club e-sport szakosztálya, mely alig fél év elteltével ma már, több mint 500
+                taggal büszkélkedhet. A szakosztály főként az internetes játékokkal kapcsolatba hozható
+                interdiszciplináris tudományos kutatások támogatására, a Debreceni Egyetem
+                játékosközösségének összekovácsolására, valamint a majdani utánpótlás(U18,U12) nevelésére jött létre.
+                A szervezet segítségével csapatok alakulnak,
+                barátságok kötődnek, valamint olyan élményszerzési lehetőséget biztosít, melyet eddig csak
+                kevesen tapasztalhattak meg. Nem titkolt céljuk, hogy a populáris játékokban versenyképes
+                válogatottat hozzanak létre, melyek hazai és nemzetközi tornákon is képviselhetik az egyetemet.
+                A szórakozás és versenyzés mellett folyamatos kutatómunka és kapcsolatépítés történik a témában
+                érdeklődő szakemberekkel. Legyenek azok informatikus, pszichológus, oktatási, orvosi, gazdasági
+                vagy társadalomtudományi szakemberek.
+                Irányelvük, hogy a játékmenet elemzésével, a játékosok életmódjával és életvitelével foglalkozva
+                tudományos kutatásokat végezhessenek.
+            </para>
+            <para>
+                Az eddig folyamatban lévő munkák közül kettőt emelnénk ki. Ezek a BrainB
+                <footnote>
+                    <para>
+                        <link xlink:href="https://github.com/nbatfai/esport-talent-search">A BrainB projekt GitHub
+                            tárolójának elérése
+                        </link>
+                    </para>
+                </footnote>
+                és a FUTURE (2.4 fejezet)
+                <footnote>
+                    <para>
+                        <link xlink:href="https://github.com/nbatfai/future">A FUTURE GitHub projekt tárolójának
+                            elérése
+                        </link>
+                    </para>
+                </footnote>
+                projektek.
+            </para>
+            <para>
+                Valószínűleg a kutatási törekvéseknek és a versenyeken elért helyezéseknek köszönhetően a debreceni
+                kampuszokon
+                belül egyre nagyobb hírnévnek örvend a DEAC-Hackers. Mivel a szervezet jelenleg teljesen non-profit
+                jelleggel
+                működik az edzőtermet, edzéseket és egyéb felmerülő feladatokat minimális befektetéssel kell megoldani.
+                Ezzel az 1.3 Kapcsolódó munkák fejezetben külön foglalkozunk.
+                Az egyetem több karja is tárt karokkal fogadta a szakosztályt. Segítségükkel a felajánlott géptermeket,
+                előadókat
+                offline edzésre, meccselemzésre használhatják a játékosok.
+            </para>
 
-			<section>
-					<title>Interjúk[PM/LRB]</title>
-				<!--
-					<para>
-						Tételesen végigvéve minden érdeklődő DEAC-Hackers főhadiszállást: interjúk, technikai elemzések adott játékok
-						tekintetében stb.
-					</para>
-						infókar nem támogat -> könyvtár, iszk, ~3 kar támogatott minket, Jármi László, Besenczi Renátó
-				-->
-				</section>
+        </section>
+        <section>
+            <title>A DEAC-Hackers bevonása[MT]</title>
+            <!--
+                <para>
+              A középvezetõk bevonása az oktatásba, versenyzõi mentorprogram
+            </para>
+            -->
+        </section>
+        <section>
+            <title>Edzésterv[LRB]</title>
+            <!--
+            <para>
+                Edzésterv
+            </para>
+            -->
+        </section>
 
-				<section>
-					<title>Érdeklõdés felmérése[LRB]</title>
-				<!--
-					<para>
-						Érdeklődés előzetes felmérése.
-					</para>
-					<para>
-						Hipotetikus számítások kiadásokról, esetleges bevételekről.
-					</para>
-				-->
-					<!--
-						<para>
-							Általában, majd a DEAC-Hackers főhadiszállásokra vetítve.
-						</para>
-						<para>
-							Mit ad hozzá a közeg, mik a közeg kockázatai?
-						</para>
-					-->
+        <section>
+            <title>Interjúk[PM/LRB]</title>
+            <!--
+                <para>
+                    Tételesen végigvéve minden érdeklődő DEAC-Hackers főhadiszállást: interjúk, technikai elemzések adott játékok
+                    tekintetében stb.
+                </para>
+                    infókar nem támogat -> könyvtár, iszk, ~3 kar támogatott minket, Jármi László, Besenczi Renátó
+            -->
+            <para>
+                A tábor helyszínének kiválasztásakor fontos szempont volt, hogy mindenképp egyetemünk intézményein belül
+                maradjunk és helyszínfoglalási költséggel ne kelljen számolnunk. Könnyebbséget jelentett számunkra,
+                hogy a DEAC-Hackers szakmai vezetője szintén a helyszínt keresett egy hetente megrendezésre kerülő
+                League of Legends edzéshez, melyhez hasonló támogatások szükségesek, mint amit mi keresünk.
+                Az így megkapott támogatások közül helyszín, méret és felszereltség szempontjából a
+                Debreceni Egyetem Egyetemi és Nemzeti Könyvtár Kassai úti Campus Könyvtárának Oktatótermét választottuk
+                ki legmegfelelőbbnek. A terem megfeleltsége három alappillértől függ: a processzortól (CPU),
+                a véletlen elérésű memóriától (RAM), illetve a videokártyától (VGA). Ez a három jellemző volt az,
+                amit vizsgáltunk az oktatótermi gépeken, valamint az így kapott adatokat viszonyítottuk a játékok
+                követelményeihez.
+            </para>
+            <para>
+                Az oktatóterem felszereltsége:
+                CPU: Intel Core i3-4150 3.50 Ghz (4 CPU)
+                RAM: 4 GB RAM
+                VGA: Intel HD Graphics 4400 (1824 MB)
+            </para>
+            <para>
+            A jelenlegi három legnépszerűbb esport jellegű játék gépigényei:
+            </para>
+            <para>
+                League of Legends:
+                Minimum:
+                CPU: 2 GHz processzor
+                RAM: 1 GB RAM
+                GPU: (marci fordítsd le:)  Shader 2.0 verzióra alkalmas videokártyák
+                Tárhely: 8 GB elérhető tárhely
 
-			</section>
-
-			<section>
-				<title>Az esport szponzorálása és támogatása[PM]</title>
-
-				<literallayout>[TODO - beta]</literallayout>
-				<!--
-					<para>
-						Bevonhatóak-e szponzorok, ha igen hogyan?
-						Barcraft, ISZK, állam 2 milliárd, magyar honvéd tábor
-					</para>
-				-->
-				<para>
-				  Azt bátran kijelenthetjük, hogy mindaz, amit eddig kitaláltunk támogatások nélkül nem jöhet létre. A támogatás több módon is megnyílvánulhat:
-				</para>
-
-				<para>
-				  Beszélhetünk anyagi támogatásról, mely hozzájárul a programok lebonyolításának sikerességéhez, a táborozókkal foglalkozó csapatvezetők fizetéséhez,
-				  valamint bármilyen további esetleges kiadáshoz.
-				</para>
-
-				<para>
-				  Szükség lehet eszközökben megnyilvánuló szponzorációra is. Ugyan az egyetem rendelkezik számítógépekkel és néhány egyéb leendő munkaeszközzel
-				  (például 2-3 darab LEGO robot), egy táborban a zökkenőmentes szervezéshez ennél többre van szükség.
-				</para>
-
-				<para>
-				  Partnernek lenni több területet is lefed. Tervünk során szeretnénk az Invictus debreceni játékfejlesztő céghez is ellátogatni, illetve
-				  amennyiben ez nem megoldható egy-két előadás lebonyolítását kérni, hogy a számítógépes játékok legyárátásának folyamata után érdeklődők
-				  egy átfogóbb képet kapjanak, így motiválva őket a jövőbeni tanulásra és küzdésre.
-				</para>
-
-				<literallayout>
-				  Ebben a bekezdésben azokról az esetleges támogatókról írunk majd, akikkel sikerült megállapodnunk.
-				</literallayout>
+                Ajánlott:
+                CPU: 3 GHz processzor
+                RAM: 2 GB RAM
+                GPU: Nvidia GeForce 8800/AMD Radeon HD 5670 vagy egyenértékű videokártya
+                Tárhely: 12 GB elérhető tárhely
 
 
-			</section>
+                Counter Strike: Global Offensive
+                Minimum:
+                CPU: 2 magos / 2000 MHz
+                RAM: 2048 MB
+                VGA: SM 3.0, DX 9.0c / 256 MB
+                HDD: 7,5 GB
 
-   	</section>
-	<section>
-		<title>Tanítóágens</title>
+                Overwatch:
+                Minimum:
+                CPU: 2 magos / 3000
+                RAM: 4096 MB
+                VGA: SM 6.0, DX 12 / 1024 MB
+                HDD: 30 GB
 
-		<section>
-			<title>Bemutatás és koncepció</title>
-			<!-- Chatrobot, tensorflow, modell, történelem/irodalom, kiterjesztése,
-				 bevonás a tábori programba,
-			-->
-		</section>
-		<section>
-			<title>Szakmai háttér</title>
-		</section>
-	</section>
-	<section>
-		<title>FUTURE X</title>
-		<!-- szoftverfejlesztés
-		-->
+                Ajánlott:
+                CPU: MHz4 magos / 3100 MHz
+                RAM: 6144 MB
+                VGA: SM 6.0, DX 12 / 2048 MB
 
-	</section>
-                        
+            </para>
+            <para>
+                   ...Ide majd jön egy csomó ábra...
+            </para>
+            <para>
+                Ezek közül a számítógépes játékok közül a könyvtár számítógépei csak
+                a League of Legends-t tudja megfelelő minőséggel futtatni. Ennek legfőbb oka a videokártya.
+                A kevésbé népszerű játékok közül a Hearthstone futtatható még ezeken a számítógépeken,
+                azonban ezt a játékot gépigény szempontjából lényegtelen részletezni, mert egy átlagos képességű telefonon
+                is jól működik.
+            </para>
+            <para>
+                Az alábbi kérdések merültek még fel a helyszínnel kapcsolatban, melyekre a helyszínen kaptunk válaszokat:
+            </para>
+            <para>
+                Ha a tábor ideje alatt (nyár közepe körül) valami váratlan probléma merülne fel, amihez rendszergazdai
+                jogosultságra lenne szükségünk, akkor hogyan tudnánk megoldani (feltételezve, hogy nem lesz bent egész nyáron)
+            </para>
+            <para>
+                Ebben az esetben a Debreceni Egyetem Informatikai Szolgáltató Központjától kell segítséget kérni.
+            </para>
+            <para>
+                A géptermekben az étel-ital fogyasztásán kívül van más szabály, amiről tudnunk kell?
+            </para>
+            <para>
+                Az épületben tilos a hangoskodás és a futkározás.
+            </para>
+            <para>
+                A tábor idején (nyár közepe körül) milyen nyitvatartás várható a könyvtárban?
+            </para>
+            <para>
+                Július 1. és szeptember 1. között az épület a hétköznapokon 8-16-ig tart nyitva.
+                Augusztus első két hetén azonban zárva tart.
+            </para>
+        </section>
+
+        <section>
+            <title>Érdeklõdés felmérése[LRB]</title>
+            <!--
+                <para>
+                    Érdeklődés előzetes felmérése.
+                </para>
+                <para>
+                    Hipotetikus számítások kiadásokról, esetleges bevételekről.
+                </para>
+            -->
+            <!--
+                <para>
+                    Általában, majd a DEAC-Hackers főhadiszállásokra vetítve.
+                </para>
+                <para>
+                    Mit ad hozzá a közeg, mik a közeg kockázatai?
+                </para>
+            -->
+            <para>
+                A tábor tervezéséhez elengedhetetlennek tartottuk egy kérdőívben felmérni az érdeklődést és az
+                igényeket.
+                Napjainkban legnépszerűbb közösségi hálózaton, a <link xlink:href="https://facebook.com">Facebook</link>-on
+                osztottuk meg kérdőíveinket,
+                saját ismerőseink számára, számítógépes játékokkal foglalkozó csoportokban, illetve városi csoportban,
+                ezáltal minden korosztályt elérve rövid időn belül. Természetesen a megszerzett adatok egy havi átlagot
+                mutatnak, túlnyomórészt Hajdú-Bihar megye lakosságán belül, melyek csak az akkori trendet mutatják be.
+                Feltételezhetően két év múlva már teljesen más átlagok születnének, főleg a legnépszerűbb játékok
+                körében,
+                így ezeket figyelembe kell venni a kérdőív kiértékelésének későbbi felhasználása során.
+            </para>
+            <para>
+                A felmérés során külön kezeltük a szülők és a gyermekek válaszait a megosztó tábor téma miatt.
+                253 választ kaptunk, melynek 90%-a gyermek, azaz táborozó küldte be.
+            </para>
+            <para>
+                Elsőként a fő döntéshozókat, a szülők válaszait ismertetjük részletesebben. Az első kérdésre, miszerint
+                támogatná-e egy ilyen tábor létrehozását, 87,5%-a a válaszoknak igen volt. Ez feltételezhetően irreális
+                érték, a valóságban ez kisebb arány, de pozitívan vettük, hogy nem váltott ki ellenszenvet egy szülőben
+                sem
+                az esemény, ezt a későbbi indoklások is mutatják. Az egyik szempont a nemleges válaszolók körében az
+                e-sport
+                „gyerekcipőben járása” volt, miszerint a mi országunkban erre nem lehet karriert építeni, akármilyen
+                komolyan
+                veszi az illető, emiatt nem helyes, ha túl komolyan veszik ezt a gyermekek a tábor befolyásolása miatt.
+                Ennek sajnos tényleg van igazságalapja és mi sem szeretnénk híú reményeket táplálni a gyermekekben,
+                így erről is részletes bemutatót szeretnénk tartani nekik. Jelenleg tényleg nem lehet ebből megélni,
+                de a fejlődés megkérdőjelezhetetlen és lehetséges, hogy pár év múlva hazánkban is hatalmas kultusza lesz
+                a témának. Ezt mi sem szemléltethetné jobban, mint a 2017-es állami kezdeményezések, támogatások és
+                a Magyar Esport Akadémia indítása. Második szempont a nem támogatóknál a mozgás hiánya volt,
+                de ez a mi esetünkben irreveláns, ugyanis mi külön kiemelnénk ennek fontosságát, tehát feltételezhetően
+                nem olvasta el részletesen a kitöltő a leírást.
+            </para>
+            <para>
+                Felmértük milyen tényezők lennének a legfontosabbak a szülők számára egy ilyen tábor során. A napi
+                háromszori
+                étkezés biztosítása és a megmozgató játékok biztosítása volt az elsődleges szempont. Második helyen az
+                egészségügyi előadások és a táborhelyen kívüli programok szervezése szerepelt. Lehetőséget
+                biztosítottunk saját
+                javaslatok írására is, melyeket mindenképp szeretnénk bevonni a tervezésbe. Ajánlották a táborozók
+                folyamatos mérését,
+                a készségek fejlesztése alapján kialakított órarendet, egy versenycsapatban a szerepkörök bemutatását
+                (pl.: menedzser),
+                illetve a szülők számára egyfajta tanácsadást. Ennek egy részét mi is terveztük és ezekután egyértelműen
+                a tábor részét
+                kell képezniük.
+            </para>
+            <para>
+                Fontos volt, hogy a szülők milyen életkorú gyermekeket küldenének a táborba. Összesítésünkből kivettük
+                a megadott életkor feletti adatokat, ugyanis ahogy a kérdőív leírásában is szerepelt, 18 éves kor
+                a felső korhatár. Így a korátlag 14. A lakhelyek felmérése alapján meg tudtuk vizsgálni, hogy a
+                fent kiszámított átlagok Hajdú-Bihar megyében is hasonlóak, ugyanis a kitöltők nagy százaléka itt él.
+            </para>
+            <para>
+                Másodjára a gyermekek válaszait ismertetnénk, ahol a válaszadók 96,5%-a támogatná egy esport tábor
+                megszervezését. A nemleges válaszok indoklásai sajnos nem voltak olyan részletesen kidolgozva,
+                mint a szülőké, de a legtöbben azzal indokolták válaszukat, hogy a felmerülő költségeket nem
+                engedhetik meg maguknak. Továbbiakban a támogatók válaszait elemezzük.
+            </para>
+            <para>
+                A válaszadók 96%-a platformnak a PC-t adta meg, ami remekül kivitelezhető egyetemi közegben is.
+                34,5%-uk hetente több, mint 20 órát játszik. Ilyen adatok mellett, egyre szembetűnőbb mekkora
+                szükség lenne egy biztonságos, irányított, tudatos játékmód kialakítására ezeknek a gyermekeknek.
+                A potenciális résztvevők már legalább 2-3 éve játszanak, mely remek alap egy ilyen tábornak.
+                A leggyakrabban játszott játékok azok, amikre mi is számítottunk, népszerűségi sorrendben a
+                következők: League of Legends, Counter Strike: Global Offensive, Overwatch. Jelenleg ezek közül
+                csak a legtöbb szavazatot elérőt tudnánk megvalósítani, viszont ezt már alkalmunk volt ki is
+                próbálni és teljes mértékben megfelelnek az elvárásoknak az egyetem tulajdonában álló gépek.
+            </para>
+            <para>
+                A gyermekektől is megkérdeztük, milyen programok szervezését támogatnák. Első helyen a
+                lézerharc szerepelt, mint megmozgató program, amit a szülők is támogattak, azonban későbbi
+                megbeszélések során arra jutottunk, hogy mivel nem túl ismert a felnőttek körében a fogalom és
+                veszélyesnek hangozhat, valószínűleg ki fogjuk venni a programok listájáról. Szinte azonos érdeklődést
+                mutattak, kicsit lemaradva a lézerharctól a játékfejlesztői cégek bemutatása, játékok programozása,
+                további megmozgató játékos programok és vloggerek, streamerek meghívása. Az első kettő különösen fontos
+                nekünk,
+                mert szeretnénk, ha a gyerekeket bevezethetnénk a programozás alapjaiba és örömüket lelnék a logikus
+                gondolkodással létrehozható saját programjaik megírásában.
+            </para>
+            <para>
+                Az érdeklődő átlag korosztály hasonló volt a szülők által megadott adatokéval, itt is 14-15
+                évesek voltak a kiemelkedő többségben.
+            </para>
+            <para>
+                A kitöltők túlnyomó többségben Pest és Hajdú-Bihar megyében élnek, így az adatok relevánsak a táborunk
+                szempontjából.
+            </para>
+            <para>
+                A kérdőív által megkapott adatok alapján elmondható, hogy a tervezett tábor számítógépes
+                felszereltség szempontjából megvalósítható a Debreceni Egyetem alap felszereltségű géptermében,
+                géptermeiben a megfelelő támogatással. 14 átlagkorosztályú táborozó közösségre számíthatunk,
+                2 éves játéktapasztalattal, programozási érdekeltséggel. A tábor tervezése szempontjából
+                elhanyagolhatatlan a szervezett mozgás biztosítása a tábor minden napjára.
+            </para>
+
+
+        </section>
+
+        <section>
+            <title>Az esport szponzorálása és támogatása[PM]</title>
+
+            <literallayout>[TODO - beta]</literallayout>
+            <!--
+                <para>
+                    Bevonhatóak-e szponzorok, ha igen hogyan?
+                    Barcraft, ISZK, állam 2 milliárd, magyar honvéd tábor
+                </para>
+            -->
+            <para>
+                Azt bátran kijelenthetjük, hogy mindaz, amit eddig elterveztünk támogatások nélkül nem jöhet létre. A
+                támogatás több módon is megnyílvánulhat:
+            </para>
+
+            <para>
+                Beszélhetünk anyagi támogatásról, mely hozzájárul a programok lebonyolításának sikerességéhez, a
+                táborozókkal foglalkozó csapatvezetők fizetéséhez,
+                valamint bármilyen további esetleges kiadáshoz.
+            </para>
+
+            <para>
+                Szükség lehet eszközökben megnyilvánuló szponzorációra is. Ugyan az egyetem rendelkezik számítógépekkel
+                és néhány egyéb leendő munkaeszközzel
+                (például 2-3 darab LEGO robot), egy táborban a zökkenőmentes szervezéshez ennél többre van szükség.
+            </para>
+
+            <para>
+                Partnernek lenni több területet is lefed. Tervünk során szeretnénk az Invictus debreceni játékfejlesztő
+                céghez is ellátogatni, illetve
+                amennyiben ez nem megoldható egy-két előadás lebonyolítását kérni, hogy a számítógépes játékok
+                legyárátásának folyamata után érdeklődők
+                egy átfogóbb képet kapjanak, így motiválva őket a jövőbeni tanulásra és küzdésre.
+            </para>
+
+            <literallayout>
+                Ebben a bekezdésben azokról az esetleges támogatókról írunk majd, akikkel sikerült megállapodnunk.
+            </literallayout>
+
+
+        </section>
+
+    </section>
+    <section>
+        <title>Tanítóágens</title>
+
+        <section>
+            <title>Bemutatás és koncepció</title>
+            <!-- Chatrobot, tensorflow, modell, történelem/irodalom, kiterjesztése,
+                 bevonás a tábori programba,
+            -->
+        </section>
+        <section>
+            <title>Szakmai háttér</title>
+        </section>
+    </section>
+    <section>
+        <title>FUTURE X</title>
+        <!-- szoftverfejlesztés
+        -->
+
+    </section>
+
 </section>                                                                                   

@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<article xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:xi="http://www.w3.org/2001/XInclude">    
+<?xml version="1.0" encoding="UTF-8" ?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://docbook.org/ns/docbook"
+         version="5.1"
+         xml:lang="hu">
     <info>
         <title>Esport vállalkozás az egyetemen?</title>
         <author>
             <personname>
                 <honorific></honorific>
                 <surname>Lovas</surname>
-                <firstname>Rita Barbara</firstname>        
-            </personname>    
+                <firstname>Rita Barbara</firstname>
+            </personname>
             <affiliation>
                 <shortaffil>hallgató, DEIK.</shortaffil>
                 <jobtitle>PTI BSc</jobtitle>
@@ -34,8 +34,8 @@
             <personname>
                 <honorific></honorific>
                 <surname>Pál</surname>
-                <firstname>Marcell</firstname>        
-            </personname>    
+                <firstname>Marcell</firstname>
+            </personname>
             <affiliation>
                 <shortaffil>hallgató, DEIK.</shortaffil>
                 <jobtitle>PTI BSc</jobtitle>
@@ -56,12 +56,12 @@
                 </otheraddr>
             </address>
         </author>
-	<author>
+        <author>
             <personname>
                 <honorific></honorific>
                 <surname>Magyar</surname>
-                <firstname>Tamás</firstname>        
-            </personname>    
+                <firstname>Tamás</firstname>
+            </personname>
             <affiliation>
                 <shortaffil>hallgató, DEIK.</shortaffil>
                 <jobtitle>PTI BSc</jobtitle>
@@ -86,8 +86,8 @@
             <personname>
                 <honorific>Dr.</honorific>
                 <surname>Bátfai</surname>
-                <firstname>Norbert</firstname>        
-            </personname>    
+                <firstname>Norbert</firstname>
+            </personname>
             <affiliation>
                 <shortaffil>E. adjunktus, DEIK.</shortaffil>
                 <jobtitle>Egyetemi adjunktus</jobtitle>
@@ -109,18 +109,18 @@
                 </otheraddr>
             </address>
         </author>
-	
-        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.5</edition>
-        <pubdate>2017</pubdate>
+
+        <edition>DEAC-Hackers, TDK dolgozat, v. 0.0.7</edition>
+        <pubdate>2017-2018</pubdate>
         <copyright>
-            <year>2017</year>
+            <year>2017-2018</year>
             <holder>Lovas Rita Barbara, Pál Marcell, Magyar Tamás, Dr. Bátfai Norbert</holder>
         </copyright>
         <legalnotice>
             <para>DEAC-Hackers, TDK dolgozat
             </para>
-            <para>                
-                Copyright (C) 2017, Rita Barbara Lovas, Marcell Pál, Tamás Magyar, Norbert Bátfai
+            <para>
+                Copyright (C) 2017-2018, Rita Barbara Lovas, Marcell Pál, Tamás Magyar, Norbert Bátfai
             </para>
             <para>
                 This program is free software: you can redistribute it and/or modify
@@ -131,66 +131,70 @@
             <para>
                 This program is distributed in the hope that it will be useful,
                 but WITHOUT ANY WARRANTY; without even the implied warranty of
-                MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+                MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
                 GNU General Public License for more details.
             </para>
             <para>
                 You should have received a copy of the GNU General Public License
-                along with this program.  If not, see 
+                along with this program. If not, see
                 <link xlink:href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</link>.
             </para>
             <para>
-                Ez a program szabad szoftver; terjeszthető illetve módosítható a 
+                Ez a program szabad szoftver; terjeszthető illetve módosítható a
                 Free Software Foundation által kiadott GNU General Public License
-                dokumentumában leírtak; akár a licenc 3-as, akár (tetszőleges) későbbi 
+                dokumentumában leírtak; akár a licenc 3-as, akár (tetszőleges) későbbi
                 változata szerint.
             </para>
             <para>
-                Ez a program abban a reményben kerül közreadásra, hogy hasznos lesz, 
-                de minden egyéb GARANCIA NÉLKÜL, az ELADHATÓSÁGRA vagy VALAMELY CÉLRA 
-                VALÓ ALKALMAZHATÓSÁGRA való származtatott garanciát is beleértve. 
+                Ez a program abban a reményben kerül közreadásra, hogy hasznos lesz,
+                de minden egyéb GARANCIA NÉLKÜL, az ELADHATÓSÁGRA vagy VALAMELY CÉLRA
+                VALÓ ALKALMAZHATÓSÁGRA való származtatott garanciát is beleértve.
                 További részleteket a GNU General Public License tartalmaz.
             </para>
             <para>
-                A felhasználónak a programmal együtt meg kell kapnia a GNU General 
+                A felhasználónak a programmal együtt meg kell kapnia a GNU General
                 Public License egy példányát; ha mégsem kapta meg, akkor
                 tekintse meg a
                 <link xlink:href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</link>
                 oldalon.
             </para>
             <para>
-                <link xlink:href="http://gnu.hu/gplv3.html">http://gnu.hu/gplv3.html</link>                
+                <link xlink:href="http://gnu.hu/gplv3.html">http://gnu.hu/gplv3.html</link>
             </para>
-        </legalnotice>            
+        </legalnotice>
         <revhistory>
             <revision>
                 <revnumber>0.0.1</revnumber>
                 <date>2017-10-17</date>
-                <authorinitials>BN</authorinitials>                
+                <authorinitials>BN</authorinitials>
                 <revremark>Iniciális tartalomjegyzék.</revremark>
             </revision>
             <revision>
                 <revnumber>0.0.2</revnumber>
                 <date>2017-10-29</date>
-                <authorinitials>BN</authorinitials>                
-                <revremark>Moduláris szerkezet kialakítása, hogy közösségi repóban hatékonyabban lehessen párhuzamosan dolgozni az anyagon. tartalomjegyzék szerkesztése.</revremark>
+                <authorinitials>BN</authorinitials>
+                <revremark>Moduláris szerkezet kialakítása, hogy közösségi repóban hatékonyabban lehessen párhuzamosan
+                    dolgozni az anyagon. tartalomjegyzék szerkesztése.
+                </revremark>
             </revision>
             <revision>
                 <revnumber>0.0.3</revnumber>
                 <date>2017-11-02</date>
-                <authorinitials>PM</authorinitials>                
-                <revremark>Részemre kiadott feladatok megjelölése, azok iniciálizálása. Valamint a dolgozat szervezésének és szerkezetének megadása.</revremark>
+                <authorinitials>PM</authorinitials>
+                <revremark>Részemre kiadott feladatok megjelölése, azok iniciálizálása. Valamint a dolgozat
+                    szervezésének és szerkezetének megadása.
+                </revremark>
             </revision>
-	        <revision>
+            <revision>
                 <revnumber>0.0.4</revnumber>
                 <date>2017-11-05</date>
-                <authorinitials>PM</authorinitials>                
+                <authorinitials>PM</authorinitials>
                 <revremark>A társszerkesztők eddigi munkálatainak hozzáadása a dokumentumhoz.</revremark>
             </revision>
-	        <revision>
+            <revision>
                 <revnumber>0.0.5</revnumber>
                 <date>2017-11-22</date>
-                <authorinitials>PM</authorinitials>                
+                <authorinitials>PM</authorinitials>
                 <revremark>Újabb írások hozzáadása a dokumentumhoz.</revremark>
             </revision>
             <revision>
@@ -199,34 +203,40 @@
                 <authorinitials>PM</authorinitials>
                 <revremark>Újradolgozott tematika, bővítés, egyénekre kiadott feladatok jelölése.</revremark>
             </revision>
+            <revision>
+                <revnumber>0.0.7</revnumber>
+                <date>2018-02-18</date>
+                <authorinitials>PM</authorinitials>
+                <revremark>Az elvégzett feladatok csatolása a dokumentumba.</revremark>
+            </revision>
         </revhistory>
-    </info>                                                                                                
+    </info>
     <xi:include href="TDK_Bevezetes.xml">
         <xi:fallback>
             <para>
                 <emphasis>XInclude: TDK_Bevezetes file not found</emphasis>
             </para>
         </xi:fallback>
-    </xi:include>      
+    </xi:include>
     <xi:include href="TDK_Targyalas.xml">
         <xi:fallback>
             <para>
                 <emphasis>XInclude: TDK_Targyalas file not found</emphasis>
             </para>
         </xi:fallback>
-    </xi:include>      
-    <xi:include href="TDK_Befejezes.xml">
+    </xi:include>
+    <xi:include href="TDK_Koszonet.xml">
         <xi:fallback>
             <para>
-                <emphasis>XInclude: TDK_Befejezes file not found</emphasis>
+                <emphasis>XInclude: TDK_Koszonet file not found</emphasis>
             </para>
         </xi:fallback>
-    </xi:include>      
+    </xi:include>
     <xi:include href="TDK_Irodalom.xml">
         <xi:fallback>
             <para>
                 <emphasis>XInclude: TDK_Irodalom.xml file not found</emphasis>
             </para>
         </xi:fallback>
-    </xi:include>      
+    </xi:include>
 </article>

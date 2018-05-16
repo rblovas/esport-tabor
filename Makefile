@@ -15,7 +15,6 @@ jing:
 .PHONY: xmllint
 xmllint:
 	xmllint --xinclude TDK_Esport_vallalkozas_az_egyetemen.xml --output output.xml
-	xmllint --relaxng http://docbook.org/xml/5.1/rng/docbookxi.rng output.xml --noout
 	rm -f output.xml
 
 .PHONY: clean

@@ -1,6 +1,6 @@
-<section xmlns="http://docbook.org/ns/docbook" version="5.1" xml:lang="hu"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="TDK_Bevezetes">
+<section xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://docbook.org/ns/docbook" version="5.1"
+         xml:lang="hu"
+         xml:id="TDK_Bevezetes">
     <title>Bevezetés</title>
     <!--
     <para>
@@ -9,240 +9,308 @@
     -->
     <section>
         <title>Esport[MT]</title>
-	
-	<literallayout>[TODO - beta]</literallayout>
-	<!--	
+
+        <literallayout>[TODO - beta]</literallayout>
+        <!--
+            <para>
+                Tudományos meghatározások felvillantása (majd megadom a feldolgozandó cikkeket az irodalomjegyzékben.)
+                Szubjektív benyomások pár mondatban, bármi személyes tapasztalat, élmény, meglátás. Mi a személyes motiváció?
+            </para>
+        -->
         <para>
-            Tudományos meghatározások felvillantása (majd megadom a feldolgozandó cikkeket az irodalomjegyzékben.)
-            Szubjektív benyomások pár mondatban, bármi személyes tapasztalat, élmény, meglátás. Mi a személyes motiváció?
+            Először az 1990-es években jelent meg fogalom szintjén az esport,
+            ekkor indították el az első offline rendezvényt az Egyesült Királyságban,
+            amit UK Professional Computer Gaming Championship-nek hívtak.
+            Ekkor történtek először kezdeményezések arra, hogy magát az online versenyszerű tevékenységet sportként
+            kezeljék.
+            A következő fontosabb állomás az esport történetében, amikor egy magazin oldalán írás jelent meg arról,
+            hogy igenis ezeket a tevékenységeket lehet csapatban végezni.
+            Természetesen ekkor még csak gyerekcipőben járt ez a művelet, így mint név sem született még meg.
+            Mai napig sem rögzítették a fogalom hivatalos változatát, ugyanis ahány ember,
+            annyi féle megfogalmazást használ erre az egyre szélesebb tábort adó közkedvelt tevékenységre.
+            Vannak, akik marketing kifejezéssel társítják, vannak, akik profi háttérrel rendelkező versenyszerű játékot
+            látnak e mögött.
         </para>
-	-->	
-	<para>
-	  Először az 1990-es években jelent meg fogalom szintjén az esport, 
-	  ekkor indították el az első offline rendezvényt az Egyesült Királyságban, 
-	  amit UK Professional Computer Gaming Championship-nek hívtak.
-	  Ekkor történtek először kezdeményezések arra, hogy magát az online versenyszerű tevékenységet sportként kezeljék.
-	  A következő fontosabb állomás az esport történetében, amikor egy magazin oldalán írás jelent meg arról, 
-	  hogy igenis ezeket a tevékenységeket lehet csapatban végezni. 
-	  Természetesen ekkor még csak gyerekcipőben járt ez a művelet, így mint név sem született még meg.
-	  Mai napig sem rögzítették a fogalom hivatalos változatát, ugyanis ahány ember,
-	  annyi féle megfogalmazást használ erre az egyre szélesebb tábort adó közkedvelt tevékenységre. 
-	  Vannak, akik marketing kifejezéssel társítják, vannak, akik profi háttérrel rendelkező versenyszerű játékot látnak e mögött.
-	</para>	
-	<para>
-	  Egyszerűen megfogalmazva esportnak nevezzük a versengés azon formáját, 
-	  ami valamilyen elektronikus rendszeren  - számítógépen vagy konzolon - történik,
-	  és játékosok vagy csapatok egy bizonyos videójátékban mérkőznek meg egymással. 
-	  Fontos a csapatszellem és a csapatépítési stratégia épp úgy, mint egy hagyományos sport esetében.
-	  Az első ilyen ismert verseny a „játékgépek” idejére tehető vissza, 
-	  amikor az Atari cég egyik játékában, a Space Invaders-ben hirdetett meg egy versenyt,
-	  amin több, mint 10000 játékos vett részt.
-        </para>	
-	<para>
-	  Az esport jelentősége - különböző játékoknak köszönhetően -  az elmúlt 20 évben exponenciálisan nőtt.
-	  Nyugaton főleg az FPS<footnote><para>First-Person Shooter - belső nézetes lövöldözős játék</para></footnote> 
-	  játékok emelkedtek ki, keleten inkább az RTS<footnote><para>Real-Time Strategy - valósidejű stratégia</para></footnote> -nek volt nagyobb sikere. 
-	  Mégis az esport igazi sikere nagyrészt a koreaiaknak köszönhető, nem utolsó sorban a StarCraft -nak.
-	  Koreában a 90-es évek elején történt politikai változások a multiplayer<footnote><para>többjátékos</para></footnote> játékok elterjedésére is hatással voltak.
-	  Az internet sebességének robbanásszerű megnövekedése elősegítette, hogy az online játék nyugaton is népszerű legyen.
+        <para>
+            Egyszerűen megfogalmazva esportnak nevezzük a versengés azon formáját,
+            ami valamilyen elektronikus rendszeren - számítógépen vagy konzolon - történik,
+            és játékosok vagy csapatok egy bizonyos videójátékban mérkőznek meg egymással.
+            Fontos a csapatszellem és a csapatépítési stratégia épp úgy, mint egy hagyományos sport esetében.
+            Az első ilyen ismert verseny a „játékgépek” idejére tehető vissza,
+            amikor az Atari cég egyik játékában, a Space Invaders-ben hirdetett meg egy versenyt,
+            amin több, mint 10000 játékos vett részt.
         </para>
-	<para>
-	  Annak ellenére, hogy már hosszabb ideje létezik, 
-	  csak azt elmúlt pár évben került be a köztudatba az esport, mint fogalom,
-	  - bár még hazánkban gyerekcipőben jár - de  lelkes tábora folyamatosan növekszik. 
-	  Különböző cégek is csatlakoztak az esport világához, speciális, 
-	  úgynevezett „gamer” termékek forgalmazására fókuszálva, vagy egy csapat szponzoraként. 
+        <para>
+            Az esport jelentősége - különböző játékoknak köszönhetően - az elmúlt 20 évben exponenciálisan nőtt.
+            Nyugaton főleg az FPS
+            <footnote>
+                <para>First-Person Shooter - belső nézetes lövöldözős játék</para>
+            </footnote>
+            játékok emelkedtek ki, keleten inkább az RTS
+            <footnote>
+                <para>Real-Time Strategy - valósidejű stratégia</para>
+            </footnote>
+            -nek volt nagyobb sikere.
+            Mégis az esport igazi sikere nagyrészt a koreaiaknak köszönhető, nem utolsó sorban a StarCraft -nak.
+            Koreában a 90-es évek elején történt politikai változások a multiplayer
+            <footnote>
+                <para>többjátékos</para>
+            </footnote>
+            játékok elterjedésére is hatással voltak.
+            Az internet sebességének robbanásszerű megnövekedése elősegítette, hogy az online játék nyugaton is népszerű
+            legyen.
         </para>
-	<para>
-	  Egyre több profi csapat jelenik meg, kezdetben átlagemberként belépve bővül a tagok száma, 
-	  de később akár profi játékosossá is válhatnak.
+        <para>
+            Annak ellenére, hogy már hosszabb ideje létezik,
+            csak azt elmúlt pár évben került be a köztudatba az esport, mint fogalom,
+            - bár még hazánkban gyerekcipőben jár - de lelkes tábora folyamatosan növekszik.
+            Különböző cégek is csatlakoztak az esport világához, speciális,
+            úgynevezett „gamer” termékek forgalmazására fókuszálva, vagy egy csapat szponzoraként.
+        </para>
+        <para>
+            Egyre több profi csapat jelenik meg, kezdetben átlagemberként belépve bővül a tagok száma,
+            de később akár profi játékosossá is válhatnak.
         </para>
 
-    </section>        
+    </section>
     <section>
         <title>Szakirodalmi háttér [PM]</title>
-	
-	<literallayout>[TODO]</literallayout>
-	<!--
-        <para>
-            A kapcsolódó főbb tudományos publikációk hivatkozása és 1-2 mondatos összefoglalása az alábbi területeken: 
-            esport és sport kapcsolata, esport és gazdaság kapcsolata, esport és oktatás kapcsolata (a kiinduló cikkeket
-            megjelölöm a következő iterációban az irodalomjegyzékben, ezt a szakirodalmi hálót természetesen felderíthetitek,
-            tovább bővíthetitek).
-        </para>
-	
-	-->
-        <para>
-            Vannak-e ismert jó gyakorlatok, akár ha nem is esport táboroztatásra, hanem sportban, oktatásban általában.
-            Pl. az úszás utánpótlás rendszerét vázlatosan kiemelve?
-        </para>
-    </section>        
+
+        <literallayout>[TODO]</literallayout>
+        <!--
+            <para>
+                A kapcsolódó főbb tudományos publikációk hivatkozása és 1-2 mondatos összefoglalása az alábbi területeken:
+                esport és sport kapcsolata, esport és gazdaság kapcsolata, esport és oktatás kapcsolata (a kiinduló cikkeket
+                megjelölöm a következő iterációban az irodalomjegyzékben, ezt a szakirodalmi hálót természetesen felderíthetitek,
+                tovább bővíthetitek).
+            </para>
+            <para>
+                Vannak-e ismert jó gyakorlatok, akár ha nem is esport táboroztatásra, hanem sportban, oktatásban általában.
+                Pl. az úszás utánpótlás rendszerét vázlatosan kiemelve?
+            </para>
+        -->
+            <para>
+                https://sci-hub.tw/
+
+
+
+                https://dl.acm.org/citation.cfm?id=3116635
+
+                https://dl.acm.org/citation.cfm?id=2967937
+            </para>
+
+            <para>
+                Esport és gazdaság:
+
+                Az "E-sports on the Rise?: Critical Considerations on the
+                Growth and Erosion of Organized Digital Gaming
+                Competitions" c. cikk az esport és gazdaság kapcsolatán kívül annak népszerűségét is elemzi.
+                Az írók említik, hogy Emmett Shear a Twitch vezérigazgatója publikált egy posztot (http://www.reddit.com/r/IAmA/comments/1exa2k/hi_im_em
+                mett_shear_founder_and_ceo_of_twitch_the/), melyben arról is beszélt, hogy egy évtizeden belül az
+                esport hatalmasabbá fog nőni az atlétikai sportoknál. Mindezt 2013-ban tette. Itt érdemes megállni és elgondolkodni,
+                hogy napjainkban (2018-ban) hová is fejlődött e iparág. Valóban, iparág, hisz
+
+
+                https://dl.acm.org/citation.cfm?id=2513008
+            </para>
+
+    </section>
     <section>
-	<title>Kapcsolódó munkák [PM]</title>
-	
-	<!--	
-	<para>
-          Az eddigi saját munkáink és publikációink kapcsolódása az előző pont mintájára.               
+        <title>Kapcsolódó munkák [PM]</title>
+
+        <!--
+        <para>
+              Az eddigi saját munkáink és publikációink kapcsolódása az előző pont mintájára.
+            </para>
+        -->
+
+        <para>
+            Az írók közül Lovas Rita Barbara és Pál Marcell felkérésre műhelymunkát küldhettek
+            <footnote>
+                <para>Bátfai Norbert, Besenczi Renátó, Szabó József, Jeszenszky Péter, Buda András, Jármi László, Lovas
+                    Rita Barbara, Pál Marcell, Bogacsovics Gergő, Tóthné Kovács Enikő: Játszó hackerek, hackelő
+                    játékosok
+                </para>
+            </footnote>
+            be az Információs Társadalom c. (Q4) folyóiratba, mely szoros kapcsolatban áll a dolgozat témájával is. A
+            cikkben egy téli esport tábor szervezésének körülményeit és feltételeit vizsgáltuk. Az írás 2018 első
+            felében jelenik meg.
         </para>
-	-->
-	
-	<para>
-	  Az írók közül Lovas Rita Barbara és Pál Marcell felkérésre műhelymunkát küldhettek
-	    <footnote>
-	      <para>Bátfai Norbert, Besenczi Renátó, Szabó József, Jeszenszky Péter, Buda András, Jármi László, Lovas Rita Barbara, Pál Marcell, Bogacsovics Gergő, Tóthné Kovács Enikő: Játszó hackerek, hackelő játékosok</para>
-	    </footnote> 
-	  be az Információs Társadalom c. (Q4) folyóiratba, mely szoros kapcsolatban áll a dolgozat témájával is. A cikkben egy téli esport tábor szervezésének körülményeit és feltételeit vizsgáltuk. Az írás 2018 első felében
-	  jelenik meg.
-	</para>
-	
-	<para>
-	  A beküldött anyagban megállapítottuk a DEAC-Hackers nonprofit célú működését. Taglaltuk, hogy a szervezet jelenlegi pénzügyi helyzete miatt a vezetők és tagok csupán lelkesedésből
-	  végzik a munkájukat. A töretlen készülés és a középvezetők tagokkal való foglalkozása komplex és megterhelő feladat, emiatt nem várható el senkitől sem, hogy ezt hosszútávon 
-	  ingyen és bérmentve végezze. A befektetett energia és idő nem hoz számára semmiféle bevételt, így ehelyett akár például matematikát is oktathatna pénzért. Összegezve tehát muszáj
-	  találni megoldást a problémára. Arra a következtetésre jutottunk, hogy működő ötlet lehet egy téli esport tábor, mely anyagi bevétel realizálásával motiválhatná az edzőket
-	  komoly eredmények felmutatására, továbbá pénzügyi juttatás formájában viszonozhatjuk időigényes munkájukat.
-	</para>
-	
-	
-    </section>                
+
+        <para>
+            A beküldött anyagban megállapítottuk a DEAC-Hackers nonprofit célú működését. Taglaltuk, hogy a szervezet
+            jelenlegi pénzügyi helyzete miatt a vezetők és tagok csupán lelkesedésből
+            végzik a munkájukat. A töretlen készülés és a középvezetők tagokkal való foglalkozása komplex és megterhelő
+            feladat, emiatt nem várható el senkitől sem, hogy ezt hosszútávon
+            ingyen és bérmentve végezze. A befektetett energia és idő nem hoz számára semmiféle bevételt, így ehelyett
+            akár például matematikát is oktathatna pénzért. Összegezve tehát muszáj
+            találni megoldást a problémára. Arra a következtetésre jutottunk, hogy működő ötlet lehet egy téli esport
+            tábor, mely anyagi bevétel realizálásával motiválhatná az edzőket
+            komoly eredmények felmutatására, továbbá pénzügyi juttatás formájában viszonozhatjuk időigényes munkájukat.
+        </para>
+
+    </section>
     <section>
         <title>A dolgozat szervezése és szerkezete [PM]</title>
-        
-	<literallayout>[TODO - beta]</literallayout>
-	
-	<para>
-	    Projektünket online egy GitHub tárolóból lehet elérni, ennek használata azért is volt indokolt, mert többen szerkesztjük a dokumentumot, így mindenki a saját verziójában rendelkező újításokkal kibővítve tudja frissíteni a dolgozatot.
-	    Mindemellett a gyakorlatban majdcsak mindenhol használnak a GitHub-hoz hasonló tárolókat, így ez tökéletes alkalom, hogy a tanórákon kívül plusz tudást vegyünk magunkhoz, melyet majd leendő munkahelyünkön is kamatoztatni tudunk.
-	</para> 	
-	<para>
-	     A tároló a következő címen érhető el: <link xlink:href="https://github.com/rblovas/esport-tabor">https://github.com/rblovas/esport-tabor</link>.
-	</para>
-	
- 	<para>
-	    Dokumentumunk DocBook 5.1 XML felhasználásával írjuk. Ez a szabvány jelentősen megkönnyíti a munkánkat a szöveg formázása és elrendezése terén.
-	</para>
-	
-	<para>
-	  A dolgozat az alábbi fejezetekkel foglalkozik:
-	</para>
-	
-	<para role="bold">
-	  Esport pillanatkép:
-	</para>
-	<para>
-	  Az esport helyzete a világban és Magyarországi viszonylatban.
-	</para>
-	<para role="bold">
-	  Esport kurzus- és táborfejlesztési koncepció:
-	</para>
-	<para>
-	  Egy kurzus vagy tábor rendezésének körülményeit vizsgáljuk.
-	</para>
-	<para role="bold">
-	  Interjúk és esettanulmányok:
-	</para>
-	<para>
-	  A kutatás során megkérdezett alanyok bemutatása, valamint esettanulmányok már megrendezésre került eseményekről.
-	</para>
-	<para role="bold">
-	  Számítások:
-	</para>
-	<para>
-	  A már fentebb említett kurzus vagy tábor rendezésének költségeit, esetleges bevételeit vizsgáljuk.
-	</para>
-	<para role="bold">
-	  Szponzorációs stratégia:
-	</para>
-	<para>
-	  Külsős cégek, partnerek, szponzorok bevonása a projektbe.
-	</para>
 
-	<para>
-	  A fejezetek sorrendje következetes, lépésről-lépésre próbálkoztunk körbejárni a témát.
-	</para>
-	
-    </section>        
+        <literallayout>[TODO - beta]</literallayout>
+
+        <para>
+            Projektünket online egy GitHub tárolóból lehet elérni, ennek használata azért is volt indokolt, mert többen
+            szerkesztjük a dokumentumot, így mindenki a saját verziójában rendelkező újításokkal kibővítve tudja
+            frissíteni a dolgozatot.
+            Mindemellett a gyakorlatban majdcsak minden munkahelyen használnak a GitHub-hoz hasonló tárolókat, így ez tökéletes
+            alkalom, hogy a tanórákon kívül plusz tudást vegyünk magunkhoz, melyet majd leendő állásunkban is
+            kamatoztatni tudunk.
+        </para>
+        <para>
+            A tároló a következő címen érhető el: <link xlink:href="https://github.com/rblovas/esport-tabor">
+            https://github.com/rblovas/esport-tabor</link>.
+        </para>
+
+        <para>
+            Dokumentumunk DocBook 5.1 XML felhasználásával írjuk. Ez a szabvány jelentősen megkönnyíti a munkánkat a
+            szöveg formázása és elrendezése terén.
+        </para>
+
+        <para>
+            A dolgozat az alábbi főbb fejezetekkel foglalkozik:
+        </para>
+
+        <para role="bold">
+            Esport pillanatkép:
+        </para>
+        <para>
+            Bemutatjuk az esport helyzetét a világban és magyarországi viszonylatban, valamint a rendszer szabályozását.
+        </para>
+        <para role="bold">
+            Esport kurzus- és táborfejlesztési koncepció:
+        </para>
+        <para>
+            Egy nyári tábor rendezésének körülményeit vizsgáljuk. Tekintve az egyetemi közeget, a szakmai értelemben vett
+            edzéstervet, valamint a személyes interjúk dokumentált változatait is szemléltetjük a felmérésekkel/kutatásokkal
+            egyetemben. Szót ejtünk még a szponzoráció témájáról is.
+        </para>
+        <para role="bold">
+            Tanítóágens:
+        </para>
+        <para>
+            A célunk egy olyan öntanító programot létrehozni, mely a saját maga tanítása mellett a felhasználót, vagyis
+            potenciálisan a táborozót/gyermeket tanítja kezdetben lexikai tudással, későbbi távlatban akár programozásra.
+        </para>
+        <para role="bold">
+            FUTURE X:
+        </para>
+        <para>
+            Külsős cégek, partnerek, szponzorok bevonása a projektbe.
+        </para>
+
+        <para>
+            A fejezetek sorrendje következetes, lépésről-lépésre próbálkoztunk körbejárni a témát.
+        </para>
+
+    </section>
     <section>
-	  <title>A dolgozat módszere[LRB]</title>
-	  <literallayout>[TODO - beta]</literallayout>
-	  
-	  <!--
-	  <para>
-	      Hogyan dolgozunk? Az interjú alanyok és esettanulmányok bemutatása.
-	  </para>
-	  -->
-	  
-	  <para>
-	    Dolgozatunk kezdeti fázisában felkerestük a Minecraft tábor debreceni munkatársát, Jármi Lászlót.
-	  </para>
-	  <para>
-	    A vállalkozás lehetőségeinek felmérését és megszervezését az érintett város, Debrecen lakosaihoz, helyszíneihez mérten végezzük. 
-	    A felmérést a lehetséges helyszínek keresésével és felszerélésük minőségének, teljesítményének vizsgálatával kezdtük. 
-	    Több terem ajánlatot is kaptunk témavezetőnk közreműködésével, úgy mint a Kassai úti Campus Könyvtár …gépterme,…..
-	  </para>
-	  <para>
-	    A termek feltérképezését a könyvtári gépteremmel kezdtük, ugyanis helyszínileg az bizonyult a legmegfelelőbbnek. 
-	    A főleg Informatikai Kar tanáraiból és hallgatóiból álló DEAC-Hackers tagjainak, 
-	    akik terveink szerint részt vennének a vállalkozás szervezésében és fenntartásában, gyorsan megközelíthető, 
-	    a táborozók szempontjából pedig a Főnix parkolója és a Lovarda étterem nyújt előnyt a helyválasztásban. 
-	    A DEAC-Hackers alelnökének közreműködésével felvettük a kapcsolatot az intézmény vezetőjével és rendszergazdájával.
-	    Az összeköttetés kialakulásával megkezdtük interjú jellegű kérdéseink kidolgozását,
-	    melyek elkerülhetetlenek a kezdeti tervezési fázisban. 
-	    Az e-mailben folytatott levelezések mellett a géptermet és annak számítógépeit is felmértük, 
-	    a szükséges tényezők szerint. A terem paraméterei a várthoz képest kiemelkedő szintet érték el,
-	    melyet az „Egyetemi közeg bemutatása” alcímnél fogunk részletesen kifejteni.
-	  </para>
-	  <para>
-	    A további termeket a könyvtárhoz hasonló módon mértük fel, de már gyorsabban és gördülékenyebben a korábbiból felkészülve.
-	    A termeket a könyvtárral kapcsolatban szerzett adatokhoz mérten rangsoroltuk. 
-	  </para>
-	  <para>
-	    A vállalkozás sikerességének következő tényezője, amit vizsgálnunk kellett a résztvevők várható száma, 
-	    életkora és érdeklődési köre az e-sport világában. Mivel célközönségünk abba a korosztályba tartozik, 
-	    akiknél általános és mindennapi a Facebook használata, bejegyzések formájában kértünk közreműködést munkánkhoz. 
-	    Segítségükkel egy kérdőívre irányítottuk át az érdeklődőt, melyet kitöltve megadhat minden,
-	    a vállalkozásunk szempontjából lényeges információt. Külön vizsgáltuk az érdeklődőket résztvevőként vagy szülőként,
-	    hiszen mindkét félnek más és más szempontok fontosak, de a jövőben törekedni fogunk mindkét fél igényeit teljesíteni.
-	    A 253 kitöltő adataiból a következő eredményeket szűrtük le:
-	  </para>
-		<literallayout role="bold">A kitöltők több, mint 90%-a gyermek volt...</literallayout>
-		<para>
-		</para>
-		<para>
-		...és közülök 96%, tehát 229-ből 220-an támogatnák egy esport tábor létrehozását.
-		A gyermekektől megkérdeztünk a tábor szempontjából fontos technikai adatokat is 
-		(milyen gyakorisággal és mivel játszanak, milyen felszerelésük van).
-		</para>
-		<para>
-		Ezekből arra jutottunk, hogy a többség hetente több, mint 20 órát tölt videójátékkal, nagyjából 2-4 éve játszik aktívan,
-		és várhatóan a népszerűbb játékokat preferálják. Ilyenek például a League of Legends, Counter Strike: Global Offensive 
-		és Overwatch.
-		</para>
-		<para>
-		A gyermekek 61.8%-ának nincs a kiválasztott játékaikhoz megfelelő laptopjuk, így indokolt külső forrásból olyan számítógépek
-		beszerzése, melyekkel a fentebb megadott játékok gondnélkül játszhatóak.
-		</para>
-		<para>
-		Mivel 52.3% nem játszott versenyszerűen videójátékokkal, úgy véljük még inkább hasznos lenne a tábor megszervezése,
-		hiszen így előkészítés szintjén tapasztalatot gyűjthetnek, ezáltal is elkerülvén a jövőbeni stresszt és más gátló faktorokat.
-		</para>
-		<para>
-		Megkérdeztük még, a kitöltő gyermekek korát is, hiszen majdcsaknem ez a legbefolyásolóbb tényező a szervezésben. 
-		Nem "egészséges" ugyanis nagy korkülönbségű gyermekeket egyszerre foglalkoztatni, hisz minden korcsoportnak más és más igénye,
-		problémái akadnak. Szerencsére várakozásunknak eleget téve a főbb korosztály 13-17 éves, ebből is a 14 és 15 évesek voltak többségben.	  
-		</para>
-		<para>
-		Végül szerettük volna megtudni azt is, hogy az érdeklődők melyik megyében laknak, hiszen elsőkörben napközis formában
-		kívánnánk megrendezni a tábort, tehát fontos, hogy elsőkörben Hajdú-Bihar megyében mennyien érdeklődnek. 
-		Ugyan a kitöltők 27.3% százaléka Pest megyében él, a következő nagyobb ugrás 16.8%-al meglepő módon Hajdú-Bihar lett.
-		</para>
-	
-	 <para>
-             A kérdőívet és az adatokat mellékletben csatoltuk.
-          </para>
-	  <para>
-             Az információk segítségével megkezdhettük a számításainkat a vállalat kiadásainak és bevételeinek realizálásához. 
-          </para>
-	
-    </section>                
+        <title>A dolgozat módszere[LRB]</title>
+        <literallayout>[TODO - beta]</literallayout>
+
+        <!--
+        <para>
+            Hogyan dolgozunk? Az interjú alanyok és esettanulmányok bemutatása.
+        </para>
+        -->
+
+        <para>
+            Dolgozatunk kezdeti fázisában felkerestük a Minecraft tábor debreceni munkatársát, Jármi Lászlót.
+        </para>
+        <para>
+            A vállalkozás lehetőségeinek felmérését és megszervezését az érintett város, Debrecen lakosaihoz,
+            helyszíneihez mérten végezzük.
+            A felmérést a lehetséges helyszínek keresésével és felszerélésük minőségének, teljesítményének vizsgálatával
+            kezdtük.
+            Több terem ajánlatot is kaptunk témavezetőnk közreműködésével, úgy mint a Kassai úti Campus Könyvtár
+            …gépterme,…..
+        </para>
+        <para>
+            A termek feltérképezését a könyvtári gépteremmel kezdtük, ugyanis helyszínileg az bizonyult a
+            legmegfelelőbbnek.
+            A főleg Informatikai Kar tanáraiból és hallgatóiból álló DEAC-Hackers tagjainak,
+            akik terveink szerint részt vennének a vállalkozás szervezésében és fenntartásában, gyorsan megközelíthető,
+            a táborozók szempontjából pedig a Főnix parkolója és a Lovarda étterem nyújt előnyt a helyválasztásban.
+            A DEAC-Hackers alelnökének közreműködésével felvettük a kapcsolatot az intézmény vezetőjével és
+            rendszergazdájával.
+            Az összeköttetés kialakulásával megkezdtük interjú jellegű kérdéseink kidolgozását,
+            melyek elkerülhetetlenek a kezdeti tervezési fázisban.
+            Az e-mailben folytatott levelezések mellett a géptermet és annak számítógépeit is felmértük,
+            a szükséges tényezők szerint. A terem paraméterei a várthoz képest kiemelkedő szintet érték el,
+            melyet az „Egyetemi közeg bemutatása” alcímnél fogunk részletesen kifejteni.
+        </para>
+        <para>
+            A további termeket a könyvtárhoz hasonló módon mértük fel, de már gyorsabban és gördülékenyebben a
+            korábbiból felkészülve.
+            A termeket a könyvtárral kapcsolatban szerzett adatokhoz mérten rangsoroltuk.
+        </para>
+        <para>
+            A vállalkozás sikerességének következő tényezője, amit vizsgálnunk kellett a résztvevők várható száma,
+            életkora és érdeklődési köre az e-sport világában. Mivel célközönségünk abba a korosztályba tartozik,
+            akiknél általános és mindennapi a Facebook használata, bejegyzések formájában kértünk közreműködést
+            munkánkhoz.
+            Segítségükkel egy kérdőívre irányítottuk át az érdeklődőt, melyet kitöltve megadhat minden,
+            a vállalkozásunk szempontjából lényeges információt. Külön vizsgáltuk az érdeklődőket résztvevőként vagy
+            szülőként,
+            hiszen mindkét félnek más és más szempontok fontosak, de a jövőben törekedni fogunk mindkét fél igényeit
+            teljesíteni.
+            A 253 kitöltő adataiból a következő eredményeket szűrtük le:
+        </para>
+        <literallayout role="bold">A kitöltők több, mint 90%-a gyermek volt...</literallayout>
+        <para>
+        </para>
+        <para>
+            ...és közülök 96%, tehát 229-ből 220-an támogatnák egy esport tábor létrehozását.
+            A gyermekektől megkérdeztünk a tábor szempontjából fontos technikai adatokat is
+            (milyen gyakorisággal és mivel játszanak, milyen felszerelésük van).
+        </para>
+        <para>
+            Ezekből arra jutottunk, hogy a többség hetente több, mint 20 órát tölt videójátékkal, nagyjából 2-4 éve
+            játszik aktívan,
+            és várhatóan a népszerűbb játékokat preferálják. Ilyenek például a League of Legends, Counter Strike: Global
+            Offensive
+            és Overwatch.
+        </para>
+        <para>
+            A gyermekek 61.8%-ának nincs a kiválasztott játékaikhoz megfelelő laptopjuk, így indokolt külső forrásból
+            olyan számítógépek
+            beszerzése, melyekkel a fentebb megadott játékok gondnélkül játszhatóak.
+        </para>
+        <para>
+            Mivel 52.3% nem játszott versenyszerűen videójátékokkal, úgy véljük még inkább hasznos lenne a tábor
+            megszervezése,
+            hiszen így előkészítés szintjén tapasztalatot gyűjthetnek, ezáltal is elkerülvén a jövőbeni stresszt és más
+            gátló faktorokat.
+        </para>
+        <para>
+            Megkérdeztük még, a kitöltő gyermekek korát is, hiszen majdcsaknem ez a legbefolyásolóbb tényező a
+            szervezésben.
+            Nem "egészséges" ugyanis nagy korkülönbségű gyermekeket egyszerre foglalkoztatni, hisz minden korcsoportnak
+            más és más igénye,
+            problémái akadnak. Szerencsére várakozásunknak eleget téve a főbb korosztály 13-17 éves, ebből is a 14 és 15
+            évesek voltak többségben.
+        </para>
+        <para>
+            Végül szerettük volna megtudni azt is, hogy az érdeklődők melyik megyében laknak, hiszen elsőkörben napközis
+            formában
+            kívánnánk megrendezni a tábort, tehát fontos, hogy elsőkörben Hajdú-Bihar megyében mennyien érdeklődnek.
+            Ugyan a kitöltők 27.3% százaléka Pest megyében él, a következő nagyobb ugrás 16.8%-al meglepő módon
+            Hajdú-Bihar lett.
+        </para>
+
+        <para>
+            A kérdőívet és az adatokat mellékletben csatoltuk.
+        </para>
+        <para>
+            Az információk segítségével megkezdhettük a számításainkat a vállalat kiadásainak és bevételeinek
+            realizálásához.
+        </para>
+
+    </section>
 </section>
